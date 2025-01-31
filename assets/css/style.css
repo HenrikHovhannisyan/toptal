@@ -13172,7 +13172,7 @@ body.mini-sidebar.expand-menu .sidebar .sidebar-menu > ul li a i {
 }
 .category-item:hover a {
   display: block;
-  bottom: 20px;
+  bottom: 5px;
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -31307,3 +31307,17 @@ span.select2-container.select2-container--default.select2-container--open {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+/**********************************************************************************************************************/
+
+.provider_info {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 225px;
+  margin: auto;
+}
