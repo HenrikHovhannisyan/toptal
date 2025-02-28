@@ -67,10 +67,10 @@
                             <a class="nav-link" href="resources.html">Resources</a>
                         </li>
                         <li class="nav-item d-sm-none">
-                            <a class="nav-link" href="login.html">Sign In</a>
+                            <a class="nav-link" href="https://app.toptal.ai/sign-in">Sign In</a>
                         </li>
                         <li class="nav-item d-sm-none">
-                            <a class="nav-link" href="register.html">Join Us</a>
+                            <a class="nav-link" href="https://app.toptal.ai/sign-up-as-client">Join Us</a>
                         </li>
                     </ul>
                 </div>
@@ -703,36 +703,23 @@
                                                                        alt="icon"></a>
                                 </li>
                             </ul>
-                            <div class="d-flex align-items-center">
-                                <div class="dropdown me-3 mb-3">
-                                    <a href="javascript:void(0);" class="dropdown-toggle fw-medium"
-                                       data-bs-toggle="dropdown">
-                                        <img src="assets/img/flags/us.png" class="flag me-2" alt="flag">English
-                                    </a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="javascript:void(0);"><img
-                                                src="assets/img/flags/us.png" class="flag me-2" alt="flag">English</a>
-                                        </li>
-                                        <li><a class="dropdown-item" href="javascript:void(0);"><img
-                                                src="assets/img/flags/jp.png" class="flag me-2" alt="flag">Japanese</a>
-                                        </li>
-                                        <li><a class="dropdown-item" href="javascript:void(0);"><img
-                                                src="assets/img/flags/cn.png" class="flag me-2" alt="flag">Chinese</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                     <div class="col-md-12 col-xl-4">
-                        <div class="footer-widget">
+<div class="footer-widget">
                             <div class="card bg-light-200 border-0 mb-3">
                                 <div class="card-body">
                                     <h5 class="mb-3">SignUp For Subscription</h5>
-                                    <div class="mb-3">
-                                        <input type="email" class="form-control" placeholder="Enter Email Address">
+                                    <div id="confirmationAlert" class="alert alert-success mt-3" style="display: none;">
+                                        You have been subscribed.
                                     </div>
-                                    <button type="submit" class="btn btn-lg btn-linear-primary w-100">Subscribe</button>
+                                    <form action="">
+                                        <div class="mb-3">
+                                            <input type="email" class="form-control" id="emailInput" placeholder="Enter Email Address" required>
+                                        </div>
+                                        <button type="button" id="subscribeButton" class="btn btn-lg btn-linear-primary w-100">Subscribe</button>
+                                    </form>
                                 </div>
                             </div>
                         </div>
@@ -746,7 +733,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="d-flex align-items-center justify-content-between flex-wrap">
-                            <p class="mb-2">Copyright &copy; 2024 - All Rights Reserved Toptal</p>
+                            <p class="mb-2">Copyright &copy; 2025 - All Rights Reserved Toptal</p>
                             <ul class="menu-links mb-2">
                                 <li>
                                     <a href="terms-condition.html"> Terms and Conditions</a>

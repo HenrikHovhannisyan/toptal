@@ -2989,3 +2989,17 @@ $(".quantity-minus").click(function (e) {
     $("#increment-count2").val(quantity3 - 1);
   }
 });
+
+document.getElementById('subscribeButton').addEventListener('click', function() {
+  let emailInput = document.getElementById('emailInput').value;
+
+  if (emailInput) {
+    let confirmationAlert = document.getElementById('confirmationAlert');
+    confirmationAlert.style.display = 'block';
+    document.getElementById('emailInput').value = '';
+    setTimeout(function() {
+      confirmationAlert.style.display = 'none';
+    }, 5000);
+  }
+});
+

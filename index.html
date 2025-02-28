@@ -102,21 +102,21 @@
                 <a class="nav-link" href="resources.html">Resources</a>
               </li>
               <li class="nav-item d-sm-none">
-                <a class="nav-link" href="login.html">Sign In</a>
+                <a class="nav-link" href="https://app.toptal.ai/sign-in">Sign In</a>
               </li>
               <li class="nav-item d-sm-none">
-                <a class="nav-link" href="register.html">Join Us</a>
+                <a class="nav-link" href="https://app.toptal.ai/sign-up-as-client">Join Us</a>
               </li>
             </ul>
           </div>
           <ul class="nav header-navbar-rht">
             <li class="nav-item pe-1">
-              <a class="nav-link btn btn-light" href="login.html">
+              <a class="nav-link btn btn-light" href="https://app.toptal.ai/sign-in">
                 <i class="ti ti-lock me-2"></i>Sign In
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link btn btn-linear-primary" href="register.html">
+              <a class="nav-link btn btn-linear-primary" href="https://app.toptal.ai/sign-up-as-client">
                 <i class="ti ti-user-filled me-2"></i>
                 Join Us
               </a>
@@ -149,7 +149,7 @@
                 </p>
                 <div class="mb-2">
                   <a
-                    href="register.html"
+                    href="https://app.toptal.ai/sign-up-as-client"
                     class="btn btn-linear-primary d-inline-flex align-items-center"
                   >
                     Hire Talent Now
@@ -557,7 +557,7 @@
     <!-- /Work Section -->
 
     <!-- Popular Providers -->
-    <section class="section pt-0">
+<!--    <section class="section pt-0">
       <div class="container">
         <div class="provider-sec">
           <div class="row justify-content-center">
@@ -758,7 +758,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
     <!-- /Popular Providers -->
 
     <!-- Testimonial Section -->
@@ -903,7 +903,7 @@
             </div>
           </div>
           <div class="col-md-6 text-md-end wow fadeInUp" data-wow-delay="0.2s">
-            <a href="register.html" class="btn btn-linear-primary"
+            <a href="https://app.toptal.ai/sign-up-as-client" class="btn btn-linear-primary"
               >Join Us</a
             >
           </div>
@@ -941,9 +941,6 @@
                 Click below to get started and find the right talent for your
                 project.
               </p>
-              <a href="javascript:void(0);" class="btn btn-linear-primary">
-                Hire Talent Today
-              </a>
             </div>
           </div>
           <div class="col-md-6 text-md-end wow fadeInUp" data-wow-delay="0.2s">
@@ -1028,50 +1025,6 @@
                     /></a>
                   </li>
                 </ul>
-                <div class="d-flex align-items-center">
-                  <div class="dropdown me-3 mb-3">
-                    <a
-                      href="javascript:void(0);"
-                      class="dropdown-toggle fw-medium"
-                      data-bs-toggle="dropdown"
-                    >
-                      <img
-                        src="assets/img/flags/us.png"
-                        class="flag me-2"
-                        alt="flag"
-                      />English
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li>
-                        <a class="dropdown-item" href="javascript:void(0);"
-                          ><img
-                            src="assets/img/flags/us.png"
-                            class="flag me-2"
-                            alt="flag"
-                          />English</a
-                        >
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="javascript:void(0);"
-                          ><img
-                            src="assets/img/flags/jp.png"
-                            class="flag me-2"
-                            alt="flag"
-                          />Japanese</a
-                        >
-                      </li>
-                      <li>
-                        <a class="dropdown-item" href="javascript:void(0);"
-                          ><img
-                            src="assets/img/flags/cn.png"
-                            class="flag me-2"
-                            alt="flag"
-                          />Chinese</a
-                        >
-                      </li>
-                    </ul>
-                  </div>
-                </div>
               </div>
             </div>
             <div class="col-md-12 col-xl-4">
@@ -1079,19 +1032,18 @@
                 <div class="card bg-light-200 border-0 mb-3">
                   <div class="card-body">
                     <h5 class="mb-3">SignUp For Subscription</h5>
-                    <div class="mb-3">
-                      <input
-                        type="email"
-                        class="form-control"
-                        placeholder="Enter Email Address"
-                      />
+                    <div id="confirmationAlert" class="alert alert-success mt-3" style="display: none;">
+                      You have been subscribed.
                     </div>
-                    <button
-                      type="submit"
-                      class="btn btn-lg btn-linear-primary w-100"
-                    >
-                      Subscribe
-                    </button>
+                    <form action="">
+                      <div class="mb-3">
+                        <input type="email" class="form-control" id="emailInput"
+                               placeholder="Enter Email Address" required>
+                      </div>
+                      <button type="button" id="subscribeButton"
+                              class="btn btn-lg btn-linear-primary w-100">Subscribe
+                      </button>
+                    </form>
                   </div>
                 </div>
               </div>
@@ -1108,7 +1060,7 @@
                 class="d-flex align-items-center justify-content-between flex-wrap"
               >
                 <p class="mb-2">
-                  Copyright &copy; 2024 - All Rights Reserved Toptal
+                  Copyright &copy; 2025 - All Rights Reserved Toptal
                 </p>
                 <ul class="menu-links mb-2">
                   <li>
