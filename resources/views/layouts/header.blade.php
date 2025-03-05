@@ -27,13 +27,13 @@
                     </a>
                 </div>
                 <ul class="main-nav align-items-lg-center">
-                    <li class="nav-item active">
+                    <li class="nav-item {{isActiveRoute('home')}}">
                         <a class="nav-link" href="{{ route('home') }}">Home</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item {{isActiveRoute('product')}}">
                         <a class="nav-link" href="{{ route('product') }}">Product</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item {{isActiveRoute('resources')}}">
                         <a class="nav-link" href="{{ route('resources') }}">Resources</a>
                     </li>
                     <li class="nav-item d-sm-none">
