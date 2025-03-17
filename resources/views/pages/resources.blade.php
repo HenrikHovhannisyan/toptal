@@ -39,8 +39,9 @@
                                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
                                     <div class="accordion-body">
                                         <p>
-                                            Clients may file a dispute through the <a href="https://toptal.ai/"
-                                                                                      class="text-primary">Toptal.ai</a>
+                                            Clients may file a dispute through the <a href="{{ route('home') }}"
+                                                                                      class="text-primary"
+                                                                                      target="_blank">Toptal.ai</a>
                                             Dispute Center within 5 days of payment
                                             processing. To initiate a dispute, navigate to your Dashboard, select the
                                             "Disputes" section,
@@ -67,7 +68,8 @@
                                             processed. If this deadline has passed, we recommend discussing the matter
                                             directly with
                                             the freelancer to seek a mutual resolution. If no agreement is reached, <a
-                                                href="https://toptal.ai/" class="text-primary">Toptal.ai</a> Support may
+                                                href="{{ route('resources') }}" class="text-primary" target="_blank">Toptal.ai</a>
+                                            Support may
                                             assist with mediation.
                                         </p>
                                     </div>
@@ -84,13 +86,13 @@
                                 <div id="panelsStayOpen-collapse4" class="accordion-collapse collapse">
                                     <div class="accordion-body">
                                         <p>
-                                            <a href="https://toptal.ai/" class="text-primary">Toptal.ai</a> disputes
+                                            <a href="https://app.toptal.ai/disputes" class="text-primary"
+                                               target="_blank">Toptal.ai</a> disputes
                                             apply strictly to billed hours rather than work quality. If you are
                                             dissatisfied
                                             with the freelancer’s deliverables, we encourage direct negotiation with the
                                             freelancer to
-                                            request a refund. If necessary, <a href="https://toptal.ai/"
-                                                                               class="text-primary">Toptal.ai</a>
+                                            request a refund. If necessary, <a href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
                                             Support can facilitate mediation.
                                         </p>
                                     </div>
@@ -110,10 +112,12 @@
                                             If a freelancer is unresponsive, first pause the contract via your Dashboard
                                             to prevent
                                             additional charges. Attempt to contact them through <a
-                                                href="https://toptal.ai/" class="text-primary">Toptal.ai</a>’s messaging
+                                                href="https://app.toptal.ai/messages" class="text-primary"
+                                                target="_blank">Toptal.ai</a>’s messaging
                                             system. If the
                                             freelancer remains unavailable, please reach out to <a
-                                                href="https://toptal.ai/" class="text-primary">Toptal.ai</a> Support for
+                                                href="{{ route('home') }}" class="text-primary" target="_blank">Toptal.ai</a>
+                                            Support for
                                             further assistance.
                                         </p>
                                     </div>
@@ -132,12 +136,14 @@
                                         <p>
                                             Account holds may occur due to policy violations, including but not limited
                                             to payments
-                                            conducted outside the <a href="https://toptal.ai/" class="text-primary">Toptal.ai</a>
+                                            conducted outside the <a href="{{ route('home') }}" class="text-primary"
+                                                                     target="_blank">Toptal.ai</a>
                                             system, repeated instances of contract non-performance,
                                             spam or harassment, and overdue balances. If your account has been placed on
                                             hold, please
-                                            check for any outstanding issues or contact <a href="https://toptal.ai/"
-                                                                                           class="text-primary">Toptal.ai</a>
+                                            check for any outstanding issues or contact <a href="{{ route('home') }}"
+                                                                                           class="text-primary"
+                                                                                           target="_blank">Toptal.ai</a>
                                             Support for clarification.
                                         </p>
                                     </div>
@@ -168,14 +174,15 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                             data-bs-target="#panelsStayOpen-collapse8" aria-expanded="false"
                                             aria-controls="panelsStayOpen-collapseThree">
-                                        What payment methods are supported on <a href="https://toptal.ai/"
-                                                                                 class="text-primary">Toptal.ai</a>?
+                                        What payment methods are supported on <a href="{{ route('home') }}"
+                                                                                 class="text-primary" target="_blank">Toptal.ai</a>?
                                     </button>
                                 </h2>
                                 <div id="panelsStayOpen-collapse8" class="accordion-collapse collapse">
                                     <div class="accordion-body">
                                         <p>
-                                            <a href="https://toptal.ai/" class="text-primary">Toptal.ai</a> currently
+                                            <a href="{{ route('home') }}" class="text-primary"
+                                               target="_blank">Toptal.ai</a> currently
                                             supports Visa, MasterCard, and verified PayPal accounts. Payments are
                                             processed automatically based on the selected billing cycle.
                                         </p>
@@ -193,9 +200,9 @@
                                 <div id="panelsStayOpen-collapse9" class="accordion-collapse collapse">
                                     <div class="accordion-body">
                                         <p>
-                                            Invoices can be accessed and downloaded from the "Reports" → "Payments" section or
-                                            through the "Contracts" page. Simply select the relevant date range and proceed with the
-                                            download.
+                                            Invoices can be accessed and downloaded from the "Reports" → "Payments"
+                                            section or
+                                            through the "Contracts" page. “Invoices can be accessed and downloaded from the "Contracts" page.
                                         </p>
                                     </div>
                                 </div>
@@ -211,9 +218,14 @@
                                 <div id="panelsStayOpen-collapse10" class="accordion-collapse collapse">
                                     <div class="accordion-body">
                                         <p>
-                                            If a freelancer engages in conduct that violates <a href="https://toptal.ai/" class="text-primary">Toptal.ai</a>’s Terms of Service - such as
-                                            fraudulent activity, poor-quality work, or failure to meet contractual obligations - clients may
-                                            submit a report to <a href="https://toptal.ai/" class="text-primary">Toptal.ai</a> Support along with supporting documentation for investigation.
+                                            If a freelancer engages in conduct that violates <a
+                                                href="{{ route('terms-condition') }}" class="text-primary"
+                                                target="_blank">Toptal.ai</a>’s Terms of Service - such as
+                                            fraudulent activity, poor-quality work, or failure to meet contractual
+                                            obligations - clients may
+                                            submit a report to <a href="{{ route('resources') }}#ContactUs" class="text-primary"
+                                                                  target="_blank">Toptal.ai</a> Support along with
+                                            supporting documentation for investigation.
                                         </p>
                                     </div>
                                 </div>
@@ -229,9 +241,12 @@
                                 <div id="panelsStayOpen-collapse11" class="accordion-collapse collapse">
                                     <div class="accordion-body">
                                         <p>
-                                            If you detect an unexpected charge, first review your "Reports" → "Payments" section to
-                                            verify transaction details and confirm whether the charge is associated with an active
-                                            contract or invoice. If the charge appears incorrect or unauthorized, contact <a href="https://toptal.ai/" class="text-primary">Toptal.ai</a>
+                                            If you detect an unexpected charge, first review your "Contracts" →
+                                            "Payments" section to verify transaction details and confirm whether the
+                                            charge is associated with an active contract or invoice. If the charge
+                                            appears incorrect or unauthorized, contact <a href="{{ route('home') }}"
+                                                                                          class="text-primary"
+                                                                                          target="_blank">Toptal.ai</a>
                                             Support immediately for resolution.
                                         </p>
                                     </div>
@@ -257,7 +272,7 @@
     <!-- /Page Wrapper -->
 
     <!-- Breadcrumb -->
-    <div class="breadcrumb-bar text-center">
+    <div class="breadcrumb-bar text-center" id="ContactUs">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-12">
@@ -283,7 +298,8 @@
                     <div class="row">
                         <div class="col-md-6 d-flex align-items-center">
                             <div class="contact-img flex-fill">
-                                <img src="{{ asset('assets/img/services/service-76.jpg') }}" class="img-fluid" alt="img">
+                                <img src="{{ asset('assets/img/services/service-76.jpg') }}" class="img-fluid"
+                                     alt="img">
                             </div>
                         </div>
                         <div class="col-md-6 d-flex align-items-center justify-content-center">
@@ -296,17 +312,20 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <div class="mb-3">
-                                                <input class="form-control" type="text" id="name" name="name" placeholder="Name" required>
+                                                <input class="form-control" type="text" id="name" name="name"
+                                                       placeholder="Name" required>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="mb-3">
-                                                <input class="form-control" type="email" id="email" name="email" placeholder="Email Address" required>
+                                                <input class="form-control" type="email" id="email" name="email"
+                                                       placeholder="Email Address" required>
                                             </div>
                                         </div>
                                         <div class="col-md-12">
                                             <div class="mb-3">
-                                                <textarea class="form-control" rows="7" id="message" name="message" placeholder="Message" required></textarea>
+                                                <textarea class="form-control" rows="7" id="message" name="message"
+                                                          placeholder="Message" required></textarea>
                                             </div>
                                         </div>
                                         <div class="col-md-12 submit-btn">
@@ -329,7 +348,7 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        $('#contactForm').on('submit', function(e) {
+        $('#contactForm').on('submit', function (e) {
             e.preventDefault();
 
             let formData = new FormData(this);
@@ -343,7 +362,7 @@
                 headers: {
                     'X-CSRF-TOKEN': '{{ csrf_token() }}'
                 },
-                success: function(response) {
+                success: function (response) {
                     let modal = new bootstrap.Modal(document.getElementById('responseModal'));
                     $('#responseMessage').text(response.message);
                     modal.show();
@@ -352,7 +371,7 @@
                         $('#contactForm')[0].reset();
                     }
                 },
-                error: function(xhr) {
+                error: function (xhr) {
                     let modal = new bootstrap.Modal(document.getElementById('responseModal'));
                     $('#responseMessage').text('An error occurred. Please try again.');
                     modal.show();
