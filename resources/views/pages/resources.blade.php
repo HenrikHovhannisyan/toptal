@@ -39,7 +39,7 @@
                                 <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
                                     <div class="accordion-body">
                                         <p>
-                                            Clients may file a dispute through the <a href="{{ route('home') }}"
+                                            Clients may file a dispute through the <a href="https://app.toptal.ai/disputes"
                                                                                       class="text-primary"
                                                                                       target="_blank">Toptal.ai</a>
                                             Dispute Center within 5 days of payment
@@ -68,7 +68,7 @@
                                             processed. If this deadline has passed, we recommend discussing the matter
                                             directly with
                                             the freelancer to seek a mutual resolution. If no agreement is reached, <a
-                                                href="{{ route('resources') }}" class="text-primary" target="_blank">Toptal.ai</a>
+                                                href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
                                             Support may
                                             assist with mediation.
                                         </p>
@@ -199,10 +199,13 @@
                                 </h2>
                                 <div id="panelsStayOpen-collapse9" class="accordion-collapse collapse">
                                     <div class="accordion-body">
-                                        <p>
-                                            Invoices can be accessed and downloaded from the "Reports" → "Payments"
+                                        {{--<p>
+                                            Invoices can be accessed and downloaded from the "Contracts" → "Payments"
                                             section or
                                             through the "Contracts" page. “Invoices can be accessed and downloaded from the "Contracts" page.
+                                        </p>--}}
+                                        <p>
+                                            “Invoices can be accessed and downloaded from the "Contracts" page.
                                         </p>
                                     </div>
                                 </div>
@@ -244,10 +247,10 @@
                                             If you detect an unexpected charge, first review your "Contracts" →
                                             "Payments" section to verify transaction details and confirm whether the
                                             charge is associated with an active contract or invoice. If the charge
-                                            appears incorrect or unauthorized, contact <a href="{{ route('home') }}"
-                                                                                          class="text-primary"
-                                                                                          target="_blank">Toptal.ai</a>
-                                            Support immediately for resolution.
+                                            appears incorrect or unauthorized, contact
+                                            <a href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">
+                                                Toptal.ai
+                                            </a> Support immediately for resolution.
                                         </p>
                                     </div>
                                 </div>
