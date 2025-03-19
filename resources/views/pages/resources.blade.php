@@ -116,7 +116,7 @@
                                                 target="_blank">Toptal.ai</a>’s messaging
                                             system. If the
                                             freelancer remains unavailable, please reach out to <a
-                                                href="{{ route('home') }}" class="text-primary" target="_blank">Toptal.ai</a>
+                                                href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
                                             Support for
                                             further assistance.
                                         </p>
@@ -141,9 +141,10 @@
                                             system, repeated instances of contract non-performance,
                                             spam or harassment, and overdue balances. If your account has been placed on
                                             hold, please
-                                            check for any outstanding issues or contact <a href="{{ route('home') }}"
-                                                                                           class="text-primary"
-                                                                                           target="_blank">Toptal.ai</a>
+                                            check for any outstanding issues or contact
+                                            <a href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">
+                                                Toptal.ai
+                                            </a>
                                             Support for clarification.
                                         </p>
                                     </div>
