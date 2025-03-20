@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-md-6 col-xl-4">
                     <div class="footer-widget">
-                        <ul class="social-icon mb-3">
+                        {{--<ul class="social-icon mb-3">
                             <li>
                                 <a href="javascript:void(0);">
                                     <img src="{{ asset('assets/img/icons/fb.svg') }}" class="img" alt="icon"/>
@@ -51,7 +51,7 @@
                                     <img src="{{ asset('assets/img/icons/linkedin.svg') }}" class="img" alt="icon"/>
                                 </a>
                             </li>
-                        </ul>
+                        </ul>--}}
                     </div>
                 </div>
                 <div class="col-md-12 col-xl-4">
