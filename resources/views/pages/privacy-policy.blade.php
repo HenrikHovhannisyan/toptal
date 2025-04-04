@@ -145,19 +145,12 @@
                                 <ul>
                                     <li>
                                         <p>
-                                            Online Work LTD
+                                            WE WORKING LLC
                                         </p>
                                     </li>
                                     <li>
                                         <p>
-                                            402059366
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <p>
-                                            Georgia, Tbilisi, Didube-Chugureti district, Ak. Tsereteli Ave. N 72, floor
-                                            1,
-                                            building 2
+                                            Georgia, Tbilisi, Tbilisi 0165, Rustavi Highway 19, Building 3, floor 1
                                         </p>
                                     </li>
                                     <li>
