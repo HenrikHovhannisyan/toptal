@@ -12,9 +12,6 @@
                             <li>
                                 <a href="{{ route('product') }}">Product</a>
                             </li>
-                            <li>
-                                <a href="{{ route('resources') }}">Resources</a>
-                            </li>
                         </ul>
                     </div>
                 </div>

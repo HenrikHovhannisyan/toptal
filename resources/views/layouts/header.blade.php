@@ -33,9 +33,6 @@
                     <li class="nav-item {{isActiveRoute('product')}}">
                         <a class="nav-link" href="{{ route('product') }}">Product</a>
                     </li>
-                    <li class="nav-item {{isActiveRoute('resources')}}">
-                        <a class="nav-link" href="{{ route('resources') }}">Resources</a>
-                    </li>
                     <li class="nav-item d-sm-none">
                         <a class="nav-link" href="https://app.toptal.ai/sign-in">Sign In</a>
                     </li>
