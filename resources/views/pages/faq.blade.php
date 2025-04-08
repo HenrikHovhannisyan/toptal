@@ -68,7 +68,7 @@
                                             processed. If this deadline has passed, we recommend discussing the matter
                                             directly with
                                             the freelancer to seek a mutual resolution. If no agreement is reached, <a
-                                                href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
+                                                href="{{ route('faq') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
                                             Support may
                                             assist with mediation.
                                         </p>
@@ -92,7 +92,7 @@
                                             dissatisfied
                                             with the freelancer’s deliverables, we encourage direct negotiation with the
                                             freelancer to
-                                            request a refund. If necessary, <a href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
+                                            request a refund. If necessary, <a href="{{ route('faq') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
                                             Support can facilitate mediation.
                                         </p>
                                     </div>
@@ -116,7 +116,7 @@
                                                 target="_blank">Toptal.ai</a>’s messaging
                                             system. If the
                                             freelancer remains unavailable, please reach out to <a
-                                                href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
+                                                href="{{ route('faq') }}#ContactUs" class="text-primary" target="_blank">Toptal.ai</a>
                                             Support for
                                             further assistance.
                                         </p>
@@ -142,7 +142,7 @@
                                             spam or harassment, and overdue balances. If your account has been placed on
                                             hold, please
                                             check for any outstanding issues or contact
-                                            <a href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">
+                                            <a href="{{ route('faq') }}#ContactUs" class="text-primary" target="_blank">
                                                 Toptal.ai
                                             </a>
                                             Support for clarification.
@@ -227,7 +227,7 @@
                                                 target="_blank">Toptal.ai</a>’s Terms of Service - such as
                                             fraudulent activity, poor-quality work, or failure to meet contractual
                                             obligations - clients may
-                                            submit a report to <a href="{{ route('resources') }}#ContactUs" class="text-primary"
+                                            submit a report to <a href="{{ route('faq') }}#ContactUs" class="text-primary"
                                                                   target="_blank">Toptal.ai</a> Support along with
                                             supporting documentation for investigation.
                                         </p>
@@ -249,7 +249,7 @@
                                             "Payments" section to verify transaction details and confirm whether the
                                             charge is associated with an active contract or invoice. If the charge
                                             appears incorrect or unauthorized, contact
-                                            <a href="{{ route('resources') }}#ContactUs" class="text-primary" target="_blank">
+                                            <a href="{{ route('faq') }}#ContactUs" class="text-primary" target="_blank">
                                                 Toptal.ai
                                             </a> Support immediately for resolution.
                                         </p>

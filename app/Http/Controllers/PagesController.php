@@ -16,9 +16,9 @@ class PagesController extends Controller
         return view('pages.product');
     }
 
-    public function resources()
+    public function faq()
     {
-        return view('pages.resources');
+        return view('pages.faq');
     }
 
     public function termsCondition()

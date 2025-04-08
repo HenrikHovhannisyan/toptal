@@ -17,7 +17,7 @@ use App\Http\Controllers\PagesController;
 
 Route::get('/', [PagesController::class, 'index'])->name('home');
 Route::get('/product', [PagesController::class, 'product'])->name('product');
-Route::get('/resource', [PagesController::class, 'resources'])->name('resources');
+Route::get('/faq', [PagesController::class, 'faq'])->name('faq');
 Route::get('/terms-condition', [PagesController::class, 'termsCondition'])->name('terms-condition');
 Route::get('/privacy-policy', [PagesController::class, 'privacyPolicy'])->name('privacy-policy');
 
