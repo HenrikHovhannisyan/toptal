@@ -6,23 +6,23 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Facility Monster | Facility management, just less monstrous</title>
+    <title>itTest | Facility management, just less monstrous</title>
     <meta name="robots" content="index,follow" />
     <meta
         name="description"
-        content="Facility monster is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
+        content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
     <meta
         property="og:title"
-        content="Facility Monster | Facility management, just less monstrous" />
+        content="itTest | Facility management, just less monstrous" />
     <meta
         property="og:description"
-        content="Facility monster is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
+        content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
     <meta property="og:url" content="index.html" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{ asset('tripleboost/assets/images/og-image.webp') }}" />
     <meta
         property="og:image:alt"
-        content="Facility monster is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
+        content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -341,7 +341,7 @@
                         <div
                             class="animate-[fadeOut_0.15s_ease] absolute w-[138px] h-[47px] ml-[9px] mt-[7px]">
                             <a href="#home"><img
-                                    alt="Facility Monster Logo"
+                                    alt="itTest Logo"
                                     src="{{ asset('tripleboost/assets/images/Facility-monster-logo-black.svg') }}"
                                     decoding="async"
                                     data-nimg="fill"
@@ -360,7 +360,7 @@
                         </div>
                         <div class="absolute w-[138px] h-[47px] ml-[9px] mt-[7px]">
                             <a href="#home"><img
-                                    alt="Facility Monster Logo"
+                                    alt="itTest Logo"
                                     src="{{ asset('tripleboost/assets/images/Facility-monster-logo-white-small.svg') }}"
                                     decoding="async"
                                     data-nimg="fill"
@@ -380,7 +380,7 @@
                         <div
                             class="animate-[fadeIn_0.15s_ease] absolute w-[190px] h-[70px] ml-[0px] mt-[3px]">
                             <a href="#home"><img
-                                    alt="Facility Monster Logo"
+                                    alt="itTest Logo"
                                     src="{{ asset('tripleboost/assets/images/Facility-monster-secondary-logo-alt1.svg') }}"
                                     decoding="async"
                                     data-nimg="fill"
@@ -489,7 +489,7 @@
                         class="hero-paragraph opacity-90 order-3 md:order-none pt-1 md:pt-3 text-white max-w-[640px] md:max-w-[800px] 4xl:max-w-[920px] z-10">
                         <span
                             class="block"
-                            style="opacity: 0; transform: translateY(60%) translateZ(0)">Facility monster is a small, fast and scalable facility
+                            style="opacity: 0; transform: translateY(60%) translateZ(0)">itTest is a small, fast and scalable facility
                             management platform, perfect for managing customers, bookings
                             and sending invoices.</span>
                     </p>
@@ -503,7 +503,7 @@
                         class="relative max-w-[570px] sm:max-w-[90%] lg:h-[804px] lg:w-[1360px] 4xl:w-[1640px] 4xl:h-[980px] order-2 md:order-none mt-[22px] md:mt-0 md:w-[90%] mb-[-10%] md:mb-[-20px] xl:mb-0 w-full before:content-[&#x27;&#x27;] before:pt-[68%] before:block"
                         style="top: 6vh; opacity: 0">
                         <img
-                            alt="Facility Monster Overview Screenshot"
+                            alt="itTest Overview Screenshot"
                             src="{{ asset('tripleboost/assets/images/overview-screenshot.webp') }}"
                             decoding="async"
                             data-nimg="fill"
@@ -529,7 +529,7 @@
                 class="bg-[#e5ddfd] overflow-hidden md:py-[120px] py-[100px]"
                 id="about">
                 <div class="flex flex-col items-center">
-                    <h2 class="text-midnight-blue">Huh, Facility Monster?</h2>
+                    <h2 class="text-midnight-blue">Huh, itTest?</h2>
                     <p
                         class="header-paragraph text-midnight-blue max-w-[640px] md:max-w-[820px]">
                         Why did we build this? Well, we were tired with the large, old and
@@ -738,7 +738,7 @@
                     </h2>
                     <p
                         class="header-paragraph !mb-[28px] md:!mb-[1vw] 2xl:!mb-[0] 3xl:!mb-[24px] text-sunshine-yellow max-w-[620px]">
-                        Don&#x27;t disregard Facility Monster because it&#x27;s cute; it
+                        Don&#x27;t disregard itTest because it&#x27;s cute; it
                         has quite the claws. Let&#x27;s take a look at some of it&#x27;s
                         features:
                     </p>
@@ -768,7 +768,7 @@
                                         <div
                                             class="relative h-[250px] md:h-[36vw] 3xl:h-[600px] w-[96vw] md:w-[50vw] pointer-events-none">
                                             <img
-                                                alt="Image showing dead simple bookings in Facility Monster"
+                                                alt="Image showing dead simple bookings in itTest"
                                                 src="{{ asset('tripleboost/assets/images/features_screenshot_services.webp') }}"
                                                 decoding="async"
                                                 data-nimg="fill"
@@ -816,7 +816,7 @@
                                         <div
                                             class="relative h-[250px] md:h-[36vw] 3xl:h-[600px] w-[96vw] md:w-[50vw] pointer-events-none">
                                             <img
-                                                alt="Image showing butter smooth invoicing in Facility Monster"
+                                                alt="Image showing butter smooth invoicing in itTest"
                                                 src="{{ asset('tripleboost/assets/images/features_screenshot_invoicing.webp') }}"
                                                 decoding="async"
                                                 data-nimg="fill"
@@ -846,7 +846,7 @@
                                             <p
                                                 class="text-sunshine-yellow max-w-[710px] mt-2 text-[17px] md:text-[19px]">
                                                 Tired of manually creating and administrating
-                                                invoices? Facility Monster takes care of all that by
+                                                invoices? itTest takes care of all that by
                                                 integrating with Billogram to generate and send
                                                 invoices.
                                             </p>
@@ -869,7 +869,7 @@
                                         <div
                                             class="relative h-[250px] md:h-[36vw] 3xl:h-[600px] w-[96vw] md:w-[50vw] pointer-events-none">
                                             <img
-                                                alt="Image showing trivial customer and user management in Facility Monster"
+                                                alt="Image showing trivial customer and user management in itTest"
                                                 src="{{ asset('tripleboost/assets/images/features_screenshot_customers.webp') }}"
                                                 decoding="async"
                                                 data-nimg="fill"
@@ -900,7 +900,7 @@
                                                 class="text-sunshine-yellow max-w-[710px] mt-2 text-[17px] md:text-[19px]">
                                                 It doesn&#x27;t matter if your customers are large,
                                                 international institutions or a mom-and-pop shop,
-                                                Facility Monster is flexible enough to cater to all.
+                                                itTest is flexible enough to cater to all.
                                             </p>
                                         </div>
                                     </div>
@@ -1031,7 +1031,7 @@
                                     <div
                                         class="relative h-[57px] lg:h-[71px] w-[230px] lg:w-[282px] mb-[20px] lg:mb-6 pointer-events-none">
                                         <img
-                                            alt="Facility Monster Overview Screenshot"
+                                            alt="itTest Overview Screenshot"
                                             src="{{ asset('tripleboost/assets/images/recommended_price.svg') }}"
                                             decoding="async"
                                             data-nimg="fill"
@@ -1098,7 +1098,7 @@
                     </h2>
                     <p
                         class="header-paragraph opacity-80 text-white max-w-[830px] z-10">
-                        Facility Monster is currently in a free closed beta and new
+                        itTest is currently in a free closed beta and new
                         feauters are added every week. Why not give it a go and sign up
                         today?
                     </p>
