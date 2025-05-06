@@ -20,5 +20,6 @@ Route::get('/product', [PagesController::class, 'product'])->name('product');
 Route::get('/faq', [PagesController::class, 'faq'])->name('faq');
 Route::get('/terms-condition', [PagesController::class, 'termsCondition'])->name('terms-condition');
 Route::get('/privacy-policy', [PagesController::class, 'privacyPolicy'])->name('privacy-policy');
+Route::get('/tripleboost', [PagesController::class, 'tripleboost'])->name('tripleboost');
 
 Route::post('/send-mail', [SendMailController::class, 'sendMail'])->name('send.mail');

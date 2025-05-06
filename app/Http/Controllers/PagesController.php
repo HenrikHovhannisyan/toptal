@@ -30,5 +30,9 @@ class PagesController extends Controller
     {
         return view('pages.privacy-policy');
     }
-}
 
+    public function tripleboost()
+    {
+        return view('pages.tripleboost');
+    }
+}
