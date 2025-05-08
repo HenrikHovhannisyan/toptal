@@ -2308,16 +2308,19 @@
                                                       },
                                                   },
                                                   className:
-                                                      "fixed w-[58px] h-[61px] bottom-0 bg-[url('/tripleboost/assets/images/paw.svg')]",
+                                                      "fixed w-[58px] h-[61px] bottom-0",
                                                   style: {
                                                       left: e.left,
                                                       top: e.top,
                                                       transform:
-                                                          e.id % 2 == 0
-                                                              ? e.rotation +
-                                                                "translateX(-40px)"
-                                                              : e.rotation +
-                                                                "translateX(40px) scaleX(-1)",
+                                                          e.id % 2 === 0
+                                                              ? `${e.rotation} translateX(-40px)`
+                                                              : `${e.rotation} translateX(40px) scaleX(-1)`,
+                                                      backgroundImage:
+                                                          "url('/tripleboost/assets/images/paw.svg')",
+                                                      backgroundSize: "cover",
+                                                      backgroundRepeat:
+                                                          "no-repeat",
                                                   },
                                               },
                                               e.id
