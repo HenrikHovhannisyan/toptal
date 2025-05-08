@@ -259,7 +259,7 @@
                             children: [
                                 (0, a.jsx)("h3", {
                                     className: "text-monster-purple mb-5",
-                                    children: "Join the waitlist",
+                                    children: "Start for free",
                                 }),
                                 (0, a.jsx)("iframe", {
                                     className:
@@ -391,7 +391,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.5,
-                                                children: "Facility",
+                                                children: "Monstrous",
                                             }),
                                         }),
                                         " ",
@@ -405,7 +405,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.55,
-                                                children: "management",
+                                                children: "Growth",
                                             }),
                                         }),
                                         (0, a.jsx)("span", {
@@ -432,7 +432,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.95,
-                                                children: "just",
+                                                children: "Minus",
                                             }),
                                         }),
                                         " ",
@@ -446,7 +446,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 1,
-                                                children: "less",
+                                                children: "the",
                                             }),
                                         }),
                                         " ",
@@ -461,20 +461,21 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 1.05,
-                                                children: "monstrous",
+                                                children: "Monster",
                                             }),
                                         }),
                                         (0, a.jsx)("span", {
                                             className:
                                                 "inline-block align-top overflow-hidden",
                                             children: (0, a.jsx)(n.E.span, {
-                                                className: "inline-block",
+                                                className:
+                                                    "text-shadow inline-block",
                                                 variants: o,
                                                 animate: l
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 1.1,
-                                                children: ".",
+                                                children: "Work.",
                                             }),
                                         }),
                                     ],
@@ -495,7 +496,7 @@
                                             type: "spring",
                                         },
                                         children:
-                                            "itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices.",
+                                            "Toptal Monster combines Website & SEO, Email, and Social Media into one powerful platform—so you can unleash beastly results without the monstrous hassle.",
                                     }),
                                 }),
                                 (0, a.jsx)(n.E.div, {
@@ -510,7 +511,7 @@
                                     children: (0, a.jsx)(m, {
                                         cssClass:
                                             "mb-[76px] md:mb-[95px] xl:mb-[11vh] 4xl-text[22px] 4xl:leading-[22px]",
-                                        label: "Join the waitlist",
+                                        label: "Start for free",
                                         style: "shadow_yellow",
                                         onPress: (t) => e(t, (0, a.jsx)(u, {})),
                                     }),
@@ -706,7 +707,7 @@
                                     className:
                                         "header-paragraph text-midnight-blue",
                                     children:
-                                        "Freakishly simple pricing, perfect for all types of companies.",
+                                        "Freakishly simple plans for businesses of every size—no hidden catches, just monstrous value.",
                                 }),
                                 (0, a.jsxs)("div", {
                                     className: N().mobile_price_selector,
@@ -736,7 +737,7 @@
                                                 "enterprise" === o
                                                     ? N().selected_price
                                                     : "",
-                                            children: "Enterprise",
+                                            children: "Mega Beast",
                                         }),
                                         (0, a.jsx)(n.E.div, {
                                             transition: { duration: 0.28 },
@@ -823,36 +824,37 @@
                                                     (0, a.jsx)("h3", {
                                                         className:
                                                             "text-blood-red",
-                                                        children: "Free",
+                                                        children:
+                                                            "Starter Beast",
                                                     }),
                                                     (0, a.jsx)("p", {
                                                         className:
                                                             N().price_paragraph,
                                                         children:
-                                                            "On a tight budget or just want to try? We won’t judge!",
+                                                            "For budding brands and curious explorers. Dip your toe (or claw!) in without breaking the bank.",
                                                     }),
                                                     (0, a.jsxs)("ul", {
                                                         children: [
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "100 users",
+                                                                    "Website Management & SEO (1 month)",
                                                             }),
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "10 customers",
+                                                                    "Email Marketing to 5,000 confirmed leads",
                                                             }),
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "10 invoices/month",
+                                                                    "Verified, Inbox-Active Emails",
                                                             }),
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "5 bookables",
+                                                                    "$49/month",
                                                             }),
                                                         ],
                                                     }),
                                                     (0, a.jsx)(m, {
-                                                        label: "Get started today",
+                                                        label: "Start For Free",
                                                         style: "stroke_red",
                                                         cssClass: "w-full mt-7",
                                                         onPress: (t) => {
@@ -912,7 +914,7 @@
                                                                         .price_paragraph +
                                                                     " xl:text-[22px]",
                                                                 children:
-                                                                    "Prefect for almost all small and medium sized companies.",
+                                                                    "Perfect for most small to mid-sized companies looking to amplify their online presence.",
                                                             }),
                                                             (0, a.jsxs)("ul", {
                                                                 className:
@@ -924,7 +926,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Unlimited users",
+                                                                                "Website Management & SEO (1 month)",
                                                                         }
                                                                     ),
                                                                     (0, a.jsx)(
@@ -933,7 +935,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Unlimited customers",
+                                                                                "Email Marketing to 50,000 confirmed leads",
                                                                         }
                                                                     ),
                                                                     (0, a.jsx)(
@@ -942,7 +944,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Unlimited invoices/month",
+                                                                                "Social Media Marketing (1 month)",
                                                                         }
                                                                     ),
                                                                     (0, a.jsx)(
@@ -951,7 +953,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Unlimited bookables",
+                                                                                "$99/month",
                                                                         }
                                                                     ),
                                                                 ],
@@ -971,7 +973,7 @@
                                                                 }),
                                                             }),
                                                             (0, a.jsx)(m, {
-                                                                label: "Start your free trial",
+                                                                label: "Start For Free",
                                                                 style: "raised_purple",
                                                                 cssClass:
                                                                     "w-full",
@@ -1026,43 +1028,51 @@
                                                     (0, a.jsx)("h3", {
                                                         className:
                                                             "text-midnight-blue",
-                                                        children: "Enterprice",
+                                                        children: "Mega Beast",
                                                     }),
                                                     (0, a.jsx)("p", {
                                                         className:
                                                             N().price_paragraph,
                                                         children:
-                                                            "Are you a large enterprise, a non-profit or similar?",
+                                                            "Go all-in on monstrous growth. Ideal for established brands ready to scale big.",
                                                     }),
                                                     (0, a.jsxs)("ul", {
                                                         children: [
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "Custom features",
+                                                                    "Website Management & SEO (1 month)",
                                                             }),
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "24/7 support",
+                                                                    "Email Marketing to 190,000 confirmed leads",
                                                             }),
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "API access",
+                                                                    "Social Media Marketing (1 month)",
                                                             }),
                                                             (0, a.jsx)("li", {
                                                                 children:
-                                                                    "Single-sign on",
+                                                                    "$800/month —",
+                                                            }),
+                                                            (0, a.jsx)(m, {
+                                                                label: "Start For Free",
+                                                                style: "raised_purple",
+                                                                cssClass:
+                                                                    "w-full",
+                                                                onPress: (
+                                                                    t
+                                                                ) => {
+                                                                    e(
+                                                                        t,
+                                                                        (0,
+                                                                        a.jsx)(
+                                                                            u,
+                                                                            {}
+                                                                        )
+                                                                    );
+                                                                },
                                                             }),
                                                         ],
-                                                    }),
-                                                    (0, a.jsx)(m, {
-                                                        label: "Contact us",
-                                                        style: "stroke_black",
-                                                        cssClass: "w-full mt-7",
-                                                        onPress: () => {
-                                                            r(
-                                                                "facility-monster@bh.studio?subject=Sales"
-                                                            );
-                                                        },
                                                     }),
                                                 ],
                                             }),
@@ -1507,7 +1517,7 @@
                                         className:
                                             "header-paragraph !mb-[28px] md:!mb-[1vw] 2xl:!mb-[0] 3xl:!mb-[24px] text-sunshine-yellow max-w-[620px]",
                                         children:
-                                            "Don't disregard itTest because it's cute; it has quite the claws. Let's take a look at some of it's features:",
+                                            "Don’t be fooled by Toptal Monster’s friendly grin—there’s beastly power under the hood. Here’s what it can sink its claws into:",
                                     }),
                                 ],
                             }),
@@ -1517,13 +1527,13 @@
                                         I,
                                         {
                                             id: 1,
-                                            title: "Dead simple bookings",
+                                            title: "Smooth Website Management",
                                             description:
-                                                "Allow your users to quickly book rooms using your phone or the meeting room screen. All this while automatically handling their billing in the background.",
+                                                "Keep your site fresh, secure, and running at monster speed. No more wrestling with endless plugins or updates—Toptal Monster wrangles it all in one streamlined platform.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_services.webp",
                                             imageAlt:
-                                                "Image showing dead simple bookings in itTest",
+                                                "Smooth Website Management",
                                             active: 1 === e,
                                         },
                                         "1"
@@ -1532,13 +1542,12 @@
                                         I,
                                         {
                                             id: 2,
-                                            title: "Butter smooth invoicing",
+                                            title: "SEO",
                                             description:
-                                                "Tired of manually creating and administrating invoices? itTest takes care of all that by integrating with Billogram to generate and send invoices.",
+                                                "Want to roar at the top of Google’s search results? Toptal Monster’s SEO toolkit ensures your site stays visible, relevant, and ready to devour the competition.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_invoicing.webp",
-                                            imageAlt:
-                                                "Image showing butter smooth invoicing in itTest",
+                                            imageAlt: "SEO",
                                             active: 2 === e,
                                         },
                                         "2"
@@ -1547,18 +1556,17 @@
                                         I,
                                         {
                                             id: 3,
-                                            title: "Trivial customer and user management",
+                                            title: "Email Marketing",
                                             description:
-                                                "It doesn't matter if your customers are large, international institutions or a mom-and-pop shop, itTest is flexible enough to cater to all.",
+                                                "Reach your audience right in their inboxes. Whether you’re nurturing leads or sending announcements, Toptal Monster sinks its teeth into email campaigns for beastly open rates and engagement.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_customers.webp",
-                                            imageAlt:
-                                                "Image showing trivial customer and user management in itTest",
+                                            imageAlt: "Email Marketing",
                                             active: 3 === e,
                                         },
                                         "3"
                                     ),
-                                    (0, a.jsx)(
+                                    /*                                     (0, a.jsx)(
                                         I,
                                         {
                                             id: 4,
@@ -1572,21 +1580,20 @@
                                             active: 4 === e,
                                         },
                                         "4"
-                                    ),
+                                    ), */
                                     (0, a.jsx)(
                                         I,
                                         {
-                                            id: 5,
-                                            title: "... and much, much more",
+                                            id: 4,
+                                            title: "…And Much More",
                                             description:
-                                                "Like multiple locations, user access management, playful yet powerful interface and more. We’d love to hear what you want us to add.",
+                                                "From insightful reports and user management to a playful-yet-powerful interface, Toptal Monster is always evolving. Have an idea for a new feature? We’d love to hear it—our monster’s always hungry for more.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_users.webp",
-                                            imageAlt:
-                                                "Image showing some other features of itTest",
+                                            imageAlt: "…And Much More",
                                             active: 5 === e,
                                         },
-                                        "5"
+                                        "4"
                                     ),
                                 ],
                             }),
@@ -1847,13 +1854,13 @@
                             children: [
                                 (0, a.jsx)("h2", {
                                     className: " text-midnight-blue",
-                                    children: "Huh, itTest?",
+                                    children: "Huh, Toptal Monster?",
                                 }),
                                 (0, a.jsxs)("p", {
                                     className:
                                         "header-paragraph text-midnight-blue max-w-[640px] md:max-w-[820px]",
                                     children: [
-                                        "Why did we build this? Well, we were tired with the large, old and expensive solutions that where out there. We belive that facility managment should be both fun ",
+                                        "Why did we build this? We were tired of large, outdated, and expensive solutions forcing businesses to juggle multiple tools. We believe marketing should be both powerful and fun. So, we combined everything into one lean, easy-to-use platform.",
                                         (0, a.jsx)("em", { children: "and" }),
                                         " easy!",
                                     ],
@@ -1899,7 +1906,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Invoice tenants",
+                                                                            "Boost your Google rankings with expert SEO",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1914,7 +1921,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Managing bookings",
+                                                                            "Keep your website updated and optimized",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1929,7 +1936,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Usage monitoring",
+                                                                            "Run monthly email campaigns to verified leads",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1944,7 +1951,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Automatic Invoicing",
+                                                                            "Create and schedule social media posts for consistent engagement",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1959,7 +1966,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Manage Subscriptions",
+                                                                            "Track performance with detailed reports",
                                                                     }
                                                                 ),
                                                             ],
@@ -1969,7 +1976,7 @@
                                                                 W()
                                                                     .sub_paragraph,
                                                             children:
-                                                                "... and much, much more!",
+                                                                "... and much more!",
                                                         }),
                                                     ],
                                                 }),
@@ -2014,7 +2021,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Co-workingspaces",
+                                                                            "Startups looking to grow fast",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2029,7 +2036,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "The property manager",
+                                                                            "Local businesses ready to scale online",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2044,7 +2051,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Those with excess inventory",
+                                                                            "Agencies managing multiple clients",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2059,7 +2066,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Self-storage businesses",
+                                                                            "Solo entrepreneurs wanting a hands-free marketing solution",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2074,7 +2081,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "The property owner",
+                                                                            "Brands seeking a unified digital presence",
                                                                     }
                                                                 ),
                                                             ],
@@ -2085,7 +2092,7 @@
                                                                     .sub_paragraph +
                                                                 " mb-[-46px] md:mb-[-32px] pb-[calc(82px-15vw)] lg:pb-0 relative z-10",
                                                             children: [
-                                                                "Not sure if its for you?",
+                                                                "Not sure if it’s for you?",
                                                                 " ",
                                                                 (0, a.jsx)(
                                                                     V(),
@@ -2094,7 +2101,7 @@
                                                                         className:
                                                                             "underline hover:underline-offset-4 underline-offset-2 transition-all",
                                                                         children:
-                                                                            "Holla at us",
+                                                                            " Reach out and let’s talk!",
                                                                     }
                                                                 ),
                                                                 "!",
@@ -2391,10 +2398,10 @@
                                                 className:
                                                     "header-paragraph opacity-80 text-white max-w-[830px] z-10",
                                                 children:
-                                                    "itTest is currently in a free closed beta and new feauters are added every week. Why not give it a go and sign up today?",
+                                                    "Don’t settle for small when you can go big. Toptal Monster is here to propel your brand into a new era of growth and success. Seize the moment—start now!",
                                             }),
                                             (0, a.jsx)(m, {
-                                                label: "Join the waitlist",
+                                                label: "Start For Free",
                                                 style: "shadow_purple",
                                                 cssClass: "pointer-events-auto",
                                                 onPress: (t) =>
@@ -2459,69 +2466,8 @@
                                                                     "Privacy",
                                                             }),
                                                         }),
-                                                        (0, a.jsx)("li", {
-                                                            children: (0,
-                                                            a.jsx)(V(), {
-                                                                href: "mailto:test@bh.studio?subject=Hello FM",
-                                                                className:
-                                                                    "hover:underline opacity-70 hover:opacity-100 hover:underline-offset-4 underline-offset-1 transition-all select-none pointer-events-auto",
-                                                                children:
-                                                                    "Contact",
-                                                            }),
-                                                        }),
                                                     ],
                                                 }),
-                                            }),
-                                            (0, a.jsxs)("div", {
-                                                className:
-                                                    "flex flex-col justify-end md:text-right text-center mt-[30px] md:mt-[0px]",
-                                                children: [
-                                                    (0, a.jsxs)("div", {
-                                                        className:
-                                                            "text-[16px]",
-                                                        children: [
-                                                            (0, a.jsx)("span", {
-                                                                className:
-                                                                    "opacity-80",
-                                                                children: "By ",
-                                                            }),
-                                                            (0, a.jsx)(V(), {
-                                                                href: "https://bh.studio",
-                                                                target: "_blank",
-                                                                className:
-                                                                    "hover:underline hover:underline-offset-2 transition-all opacity-100 underline-offset-0 pointer-events-auto",
-                                                                children:
-                                                                    "Br\xe4ne H\xfcbsch",
-                                                            }),
-                                                            " ",
-                                                            (0, a.jsx)("span", {
-                                                                className:
-                                                                    "opacity-80",
-                                                                children:
-                                                                    " and ",
-                                                            }),
-                                                            (0, a.jsx)(V(), {
-                                                                href: "https://si-si-visuals.se/",
-                                                                target: "_blank",
-                                                                className:
-                                                                    "hover:underline hover:underline-offset-2 transition-all opacity-100 underline-offset-0 pointer-events-auto",
-                                                                children:
-                                                                    "si si visuals",
-                                                            }),
-                                                            (0, a.jsx)("span", {
-                                                                className:
-                                                                    "opacity-80",
-                                                                children: ".",
-                                                            }),
-                                                        ],
-                                                    }),
-                                                    (0, a.jsx)("div", {
-                                                        className:
-                                                            "opacity-60 mt-[2px] md:mt-[0px] text-[13px]",
-                                                        children:
-                                                            "\xa9️ test. All rights reserved",
-                                                    }),
-                                                ],
                                             }),
                                         ],
                                     }),
@@ -2984,27 +2930,6 @@
                                                     }),
                                                 ],
                                             }),
-                                            (0, a.jsxs)("a", {
-                                                href: "mailto:test@bh.studio?subject=Hello FM",
-                                                className: $().menu_link,
-                                                children: [
-                                                    (0, a.jsx)("span", {
-                                                        className:
-                                                            $().menu_link_text,
-                                                        children: "Contact",
-                                                    }),
-                                                    (0, a.jsx)(n.E.span, {
-                                                        className:
-                                                            $()
-                                                                .menu_link_underline,
-                                                        animate: {
-                                                            backgroundColor: s
-                                                                ? "#000"
-                                                                : "#FFF",
-                                                        },
-                                                    }),
-                                                ],
-                                            }),
                                         ],
                                     }),
                                 }),
@@ -3032,7 +2957,7 @@
                                         onClick: (e) => t(e, (0, a.jsx)(u, {})),
                                         href: "#",
                                         children: (0, a.jsx)("span", {
-                                            children: "Join the waitlist",
+                                            children: "Start for free",
                                         }),
                                     }),
                                 }),
@@ -3457,14 +3382,6 @@
                                                 ed().mobile_menu_nav_button,
                                                 " overflow-hidden table"
                                             ),
-                                            children: (0, a.jsx)(n.E.span, {
-                                                className: "inline-block",
-                                                variants: p,
-                                                initial: "hide",
-                                                animate: "show",
-                                                custom: 0.3,
-                                                children: "Contact",
-                                            }),
                                         }),
                                         (0, a.jsx)("div", {
                                             className:
@@ -3487,7 +3404,7 @@
                                                 },
                                                 children: (0, a.jsx)(m, {
                                                     style: "shadow_purple",
-                                                    label: "Join the waitlist",
+                                                    label: "Start for free",
                                                     cssClass:
                                                         ed()
                                                             .mobile_menu_primary_button,

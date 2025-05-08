@@ -6,14 +6,14 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>itTest | Facility management, just less monstrous</title>
+    <title>Supercharge your online growth with our all-in-one solution: </title>
     <meta name="robots" content="index,follow" />
     <meta
         name="description"
         content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
     <meta
         property="og:title"
-        content="itTest | Facility management, just less monstrous" />
+        content="Supercharge your online growth with our all-in-one solution: " />
     <meta
         property="og:description"
         content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
@@ -71,9 +71,7 @@
         src="{{ asset('tripleboost/_next/static/chunks/pages/_app-891652dd44e1e4e1.js') }}"
         defer=""></script>
     <script src="{{ asset('tripleboost/_next/static/chunks/341-46a786c1818695c0.js') }}" defer=""></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/chunks/pages/index-83265e8810c14434.js') }}"
-        defer=""></script>
+    <script src="{{ asset('tripleboost/_next/static/chunks/pages/index-83265e8810c14434.js') }}?v={{ time() }}"></script>
     <script
         src="{{ asset('tripleboost/_next/static/fk2T3RXot2HHqBuIXZWrq/_buildManifest.js') }}"
         defer=""></script>
@@ -317,17 +315,14 @@
                         <menu
                             id="Header_desktop_nav__Ve1jU"
                             class="flex flex-row gap-7 lg:gap-10 select-none px-8 lg:px-12"><a href="#about" class="Header_menu_link__TAlcq"><span class="Header_menu_link_text__RT2TX">About</span><span class="Header_menu_link_underline___uwEm"></span></a><a href="#features" class="Header_menu_link__TAlcq"><span class="Header_menu_link_text__RT2TX">Features</span><span class="Header_menu_link_underline___uwEm"></span></a><a href="#pricing" class="Header_menu_link__TAlcq"><span class="Header_menu_link_text__RT2TX">Pricing</span><span class="Header_menu_link_underline___uwEm"></span></a>
-                            <a
-                                href="cdn-cgi/l/email-protection.html#c6a0a7a5afaaafb2bfebaba9a8b5b2a3b486a4aee8b5b2b3a2afa9f9b5b3a4aca3a5b2fb8ea3aaaaa9e6808b"
-                                class="Header_menu_link__TAlcq"><span class="Header_menu_link_text__RT2TX">Contact</span><span
-                                    class="Header_menu_link_underline___uwEm"></span></a>
+
                         </menu>
                     </span>
                     <div class="py-5">
                         <a
                             class="Header_primary_button__v2cxY null"
                             href="#"
-                            style="border-radius: 9999px !important"><span>Join the waitlist</span></a>
+                            style="border-radius: 9999px !important"><span>Start for free</span></a>
                     </div>
                 </div>
             </div>
@@ -449,17 +444,13 @@
                             href="#pricing"
                             class="MobileHeader_mobile_menu_nav_button__zUC3B text-sunshine-yellow overflow-hidden table"><span
                                 class="inline-block"
-                                style="opacity: 0; transform: translateY(100%) translateZ(0)">Pricing</span></a><a
-                            href="cdn-cgi/l/email-protection.html#d2b4b3b1bbbebba6abffbfbdbca1a6b7a092b0bafca1a6a7b6bbbdeda1a7b0b8b7b1a6ef9ab7bebebdf2949f"
-                            class="MobileHeader_mobile_menu_nav_button__zUC3B overflow-hidden table"><span
-                                class="inline-block"
-                                style="opacity: 0; transform: translateY(100%) translateZ(0)">Contact</span></a>
+                                style="opacity: 0; transform: translateY(100%) translateZ(0)">Pricing</span></a>
                         <div class="flex flex-col items-center mb-[10px] gap-[10px]">
                             <div
                                 style="transform: translateY(-2px) scale(0.94) translateZ(0)">
                                 <button
                                     class="Button_button_shadow_purple__9Vzr6 MobileHeader_mobile_menu_primary_button__mBcHA">
-                                    <span class="Button_generic_button_typography__ca_q1">Join the waitlist</span>
+                                    <span class="Button_generic_button_typography__ca_q1">Start for free</span>
                                 </button>
                             </div>
                         </div>
@@ -477,26 +468,26 @@
                 <div class="flex flex-col items-center justify-center align-middle">
                     <h1
                         class="heavy-header mt-[128px] md:mt-[178px] xl:mt-[190px] 2xl:mt-[218px] 3xl:mt-[26vh] px-[16px]">
-                        <span class="inline-block align-top overflow-hidden"><span class="inline-block">Facility</span></span>
-                        <span class="inline-block align-top overflow-hidden"><span class="inline-block">management</span></span><span class="inline-block align-top overflow-hidden"><span class="inline-block">,</span></span>
+                        <span class="inline-block align-top overflow-hidden"><span class="inline-block">Supercharge your</span></span>
+                        <span class="inline-block align-top overflow-hidden"><span class="inline-block">online growth</span></span><span class="inline-block align-top overflow-hidden"><span class="inline-block">,</span></span>
                         <span
-                            class="inline-block align-top pl-[5px] ml-[-5px] overflow-hidden"><span class="inline-block">just</span></span>
-                        <span class="inline-block align-top overflow-hidden"><span class="inline-block">less</span></span>
+                            class="inline-block align-top pl-[5px] ml-[-5px] overflow-hidden"><span class="inline-block">with our</span></span>
+                        <span class="inline-block align-top overflow-hidden"><span class="inline-block">all-in-one</span></span>
                         <span
-                            class="inline-block align-top pl-[50px] ml-[-50px] overflow-hidden"><span class="text-shadow inline-block">monstrous</span></span><span class="inline-block align-top overflow-hidden"><span class="inline-block">.</span></span>
+                            class="inline-block align-top pl-[50px] ml-[-50px] overflow-hidden"><span class="text-shadow inline-block">solution</span></span><span class="inline-block align-top overflow-hidden"><span class="inline-block">.</span></span>
                     </h1>
                     <p
                         class="hero-paragraph opacity-90 order-3 md:order-none pt-1 md:pt-3 text-white max-w-[640px] md:max-w-[800px] 4xl:max-w-[920px] z-10">
                         <span
                             class="block"
-                            style="opacity: 0; transform: translateY(60%) translateZ(0)">itTest is a small, fast and scalable facility
-                            management platform, perfect for managing customers, bookings
-                            and sending invoices.</span>
+                            style="opacity: 0; transform: translateY(60%) translateZ(0)">
+                            Expert <strong>Website Management & SEO</strong> to keep you optimized and visible, <strong>Monthly Email Marketing</strong> to convert and nurture leads, and powerful <strong>Social Media Marketing</strong> to expand your brand’s reach and engagement. One service—three unstoppable growth engines.
+                        </span>
                     </p>
                     <div class="order-4 md:order-none" style="opacity: 0">
                         <button
                             class="Button_button_shadow_yellow__khUJy mb-[76px] md:mb-[95px] xl:mb-[11vh] 4xl-text[22px] 4xl:leading-[22px]">
-                            <span class="Button_generic_button_typography__ca_q1">Join the waitlist</span>
+                            <span class="Button_generic_button_typography__ca_q1">Start for free</span>
                         </button>
                     </div>
                     <div
@@ -529,12 +520,10 @@
                 class="bg-[#e5ddfd] overflow-hidden md:py-[120px] py-[100px]"
                 id="about">
                 <div class="flex flex-col items-center">
-                    <h2 class="text-midnight-blue">Huh, itTest?</h2>
+                    <h2 class="text-midnight-blue">Huh, Facility Monster?</h2>
                     <p
                         class="header-paragraph text-midnight-blue max-w-[640px] md:max-w-[820px]">
-                        Why did we build this? Well, we were tired with the large, old and
-                        expensive solutions that where out there. We belive that facility
-                        managment should be both fun <em>and</em> easy!
+                        Why did we build this? Well, we were tired with the large, old and expensive solutions that where out there. We belive that facility managment should be both fun and easy!
                     </p>
                     <div
                         class="flex lg:flex-row flex-col gap-[50px] md:gap-[2vw] px-[16px] md:px-[0px] items-stretch md:items-center text-white w-full md:w-auto">
@@ -592,14 +581,14 @@
                                     What can it do?
                                 </h3>
                                 <ul>
-                                    <li>Invoice tenants</li>
-                                    <li>Managing bookings</li>
-                                    <li>Usage monitoring</li>
-                                    <li>Automatic Invoicing</li>
-                                    <li>Manage Subscriptions</li>
+                                    <li>Boost your Google rankings with expert SEO</li>
+                                    <li>Keep your website updated and optimized</li>
+                                    <li>Run monthly email campaigns to verified leads</li>
+                                    <li>Create and schedule social media posts for consistent engagement</li>
+                                    <li>Track performance with detailed reports</li>
                                 </ul>
                                 <p class="AboutSection_sub_paragraph__wECMM">
-                                    ... and much, much more!
+                                    ... and much more!
                                 </p>
                             </div>
                         </div>
@@ -608,18 +597,16 @@
                             <div class="w-full lg:z-auto mt-[5px]">
                                 <h3 class="mb-[28px]">Who is it for?</h3>
                                 <ul class="relative z-10">
-                                    <li>Co-workingspaces</li>
-                                    <li>The property manager</li>
-                                    <li>Those with excess inventory</li>
-                                    <li>Self-storage businesses</li>
-                                    <li>The property owner</li>
+                                    <li>Startups looking to grow fast</li>
+                                    <li>Local businesses ready to scale online</li>
+                                    <li>Agencies managing multiple clients</li>
+                                    <li>Solo entrepreneurs wanting a hands-free marketing solution</li>
+                                    <li>Brands seeking a unified digital presence</li>
                                 </ul>
                                 <p
                                     class="AboutSection_sub_paragraph__wECMM mb-[-46px] md:mb-[-32px] pb-[calc(82px-15vw)] lg:pb-0 relative z-10">
-                                    Not sure if its for you?<!-- -->
-                                    <a
-                                        class="underline hover:underline-offset-4 underline-offset-2 transition-all"
-                                        href="cdn-cgi/l/email-protection.html#a2c4c3c1cbcecbd6db8fcfcdccd1d6c7d0e2c0ca8cd1d6d7c6cbcd9dd1d7c0c8c7c1d69feac7cececd82e4ef">Holla at us</a>!
+                                    Not sure if it’s for you? Reach out and let’s talk!<!-- -->
+
                                 </p>
                             </div>
                             <svg
@@ -738,9 +725,8 @@
                     </h2>
                     <p
                         class="header-paragraph !mb-[28px] md:!mb-[1vw] 2xl:!mb-[0] 3xl:!mb-[24px] text-sunshine-yellow max-w-[620px]">
-                        Don&#x27;t disregard itTest because it&#x27;s cute; it
-                        has quite the claws. Let&#x27;s take a look at some of it&#x27;s
-                        features:
+                        Don’t be fooled by Toptal Monster’s friendly grin—there’s beastly power under the hood. Here’s what it can sink its claws into:
+
                     </p>
                 </div>
                 <div
@@ -793,14 +779,11 @@
                         ">
                                             <h3
                                                 class="text-sunshine-yellow text-[25px] leading-[1.27] sm:leading-[unset] md:text-[35px] md:mt-[-3.5vw] 2xl:mt-[-4vw] 3xl:mt-[-48px]">
-                                                Dead simple bookings
+                                                Smooth Website Management
                                             </h3>
                                             <p
                                                 class="text-sunshine-yellow max-w-[710px] mt-2 text-[17px] md:text-[19px]">
-                                                Allow your users to quickly book rooms using your
-                                                phone or the meeting room screen. All this while
-                                                automatically handling their billing in the
-                                                background.
+                                                Keep your site fresh, secure, and running at monster speed. No more wrestling with endless plugins or updates—Toptal Monster wrangles it all in one streamlined platform.
                                             </p>
                                         </div>
                                     </div>
@@ -841,14 +824,11 @@
                         ">
                                             <h3
                                                 class="text-sunshine-yellow text-[25px] leading-[1.27] sm:leading-[unset] md:text-[35px] md:mt-[-3.5vw] 2xl:mt-[-4vw] 3xl:mt-[-48px]">
-                                                Butter smooth invoicing
+                                                SEO
                                             </h3>
                                             <p
                                                 class="text-sunshine-yellow max-w-[710px] mt-2 text-[17px] md:text-[19px]">
-                                                Tired of manually creating and administrating
-                                                invoices? itTest takes care of all that by
-                                                integrating with Billogram to generate and send
-                                                invoices.
+                                                Want to roar at the top of Google’s search results? Toptal Monster’s SEO toolkit ensures your site stays visible, relevant, and ready to devour the competition.
                                             </p>
                                         </div>
                                     </div>
@@ -894,13 +874,11 @@
                         ">
                                             <h3
                                                 class="text-sunshine-yellow text-[25px] leading-[1.27] sm:leading-[unset] md:text-[35px] md:mt-[-3.5vw] 2xl:mt-[-4vw] 3xl:mt-[-48px]">
-                                                Trivial customer and user management
+                                                Email Marketing
                                             </h3>
                                             <p
                                                 class="text-sunshine-yellow max-w-[710px] mt-2 text-[17px] md:text-[19px]">
-                                                It doesn&#x27;t matter if your customers are large,
-                                                international institutions or a mom-and-pop shop,
-                                                itTest is flexible enough to cater to all.
+                                                Reach your audience right in their inboxes. Whether you’re nurturing leads or sending announcements, Toptal Monster sinks its teeth into email campaigns for beastly open rates and engagement.
                                             </p>
                                         </div>
                                     </div>
@@ -1067,9 +1045,6 @@
                                     <li>API access</li>
                                     <li>Single-sign on</li>
                                 </ul>
-                                <button class="Button_button_stroke_black__S52AO w-full mt-7">
-                                    <span class="Button_generic_button_typography__ca_q1">Contact us</span>
-                                </button>
                             </div>
                         </div>
                     </div>
@@ -1104,7 +1079,7 @@
                     </p>
                     <button
                         class="Button_button_shadow_purple__9Vzr6 pointer-events-auto">
-                        <span class="Button_generic_button_typography__ca_q1">Join the waitlist</span>
+                        <span class="Button_generic_button_typography__ca_q1">Start for free</span>
                     </button>
                 </div>
                 <div
@@ -1192,11 +1167,6 @@
                                 <a
                                     class="hover:underline opacity-70 hover:opacity-100 hover:underline-offset-4 underline-offset-1 transition-all select-none pointer-events-auto"
                                     href="privacy-policy.html">Privacy</a>
-                            </li>
-                            <li>
-                                <a
-                                    class="hover:underline opacity-70 hover:opacity-100 hover:underline-offset-4 underline-offset-1 transition-all select-none pointer-events-auto"
-                                    href="cdn-cgi/l/email-protection.html#aacccbc9c3c6c3ded387c7c5c4d9decfd8eac8c284d9dedfcec3c595d9dfc8c0cfc9de97e2cfc6c6c58aece7">Contact</a>
                             </li>
                         </menu>
                     </div>
