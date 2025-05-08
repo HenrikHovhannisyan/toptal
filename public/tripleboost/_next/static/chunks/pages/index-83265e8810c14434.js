@@ -270,7 +270,7 @@
                         }),
                     }),
                 f = () =>
-                    (0, a.jsx)("div", {
+                    /*                     (0, a.jsx)("div", {
                         children: (0, a.jsxs)("div", {
                             children: [
                                 (0, a.jsx)("h3", {
@@ -284,23 +284,23 @@
                                 }),
                             ],
                         }),
-                    }),
-                C = () =>
-                    (0, a.jsx)("div", {
-                        children: (0, a.jsxs)("div", {
-                            children: [
-                                (0, a.jsx)("h3", {
-                                    className: "text-monster-purple mb-5",
-                                    children: "Privacy",
-                                }),
-                                (0, a.jsx)("iframe", {
-                                    className:
-                                        "w-full md:w-[590px] h-[700px] md:h-[680px] mb-[-30px] pb-[36px] mx-auto border-none block",
-                                    src: "./privacy-policy.html",
-                                }),
-                            ],
-                        }),
-                    });
+                    }), */
+                    (C = () =>
+                        (0, a.jsx)("div", {
+                            children: (0, a.jsxs)("div", {
+                                children: [
+                                    (0, a.jsx)("h3", {
+                                        className: "text-monster-purple mb-5",
+                                        children: "Privacy",
+                                    }),
+                                    (0, a.jsx)("iframe", {
+                                        className:
+                                            "w-full md:w-[590px] h-[700px] md:h-[680px] mb-[-30px] pb-[36px] mx-auto border-none block",
+                                        src: "./privacy-policy.html",
+                                    }),
+                                ],
+                            }),
+                        }));
             var _ = i(5675),
                 g = i.n(_),
                 b = i(4960);
@@ -953,12 +953,12 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "$99/month",
+                                                                                "$199/month",
                                                                         }
                                                                     ),
                                                                 ],
                                                             }),
-                                                            (0, a.jsx)("div", {
+                                                            /* (0, a.jsx)("div", {
                                                                 className:
                                                                     "relative h-[57px] lg:h-[71px] w-[230px] lg:w-[282px] mb-[20px] lg:mb-6 pointer-events-none",
                                                                 children: (0,
@@ -971,7 +971,7 @@
                                                                             "contain",
                                                                     },
                                                                 }),
-                                                            }),
+                                                            }), */
                                                             (0, a.jsx)(m, {
                                                                 label: "Start For Free",
                                                                 style: "raised_purple",
@@ -1086,7 +1086,7 @@
                                         "Unsure which plan fits you best?",
                                         " ",
                                         (0, a.jsx)(V(), {
-                                            href: "mailto:test@bh.studio?subject=Sales",
+                                            href: "mailto:support@toptal.ai",
                                             className:
                                                 "underline hover:underline-offset-4 underline-offset-2 transition-all",
                                             children: "Reach out",
@@ -1591,7 +1591,7 @@
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_users.webp",
                                             imageAlt: "…And Much More",
-                                            active: 5 === e,
+                                            active: 4 === e,
                                         },
                                         "4"
                                     ),
@@ -2428,7 +2428,7 @@
                                                     className:
                                                         "flex flex-row gap-12",
                                                     children: [
-                                                        (0, a.jsx)("li", {
+                                                        /* (0, a.jsx)("li", {
                                                             children: (0,
                                                             a.jsx)(V(), {
                                                                 href: "./terms-conditions",
@@ -2465,7 +2465,7 @@
                                                                 children:
                                                                     "Privacy",
                                                             }),
-                                                        }),
+                                                        }), */
                                                     ],
                                                 }),
                                             }),
@@ -3230,7 +3230,7 @@
                                                     href: "#home",
                                                     onClick: d,
                                                     children: (0, a.jsx)(g(), {
-                                                        src: "/tripleboost/assets/images/Facility-monster-logo-black.svg",
+                                                        src: "/tripleboost/assets/images/Toptal-monster-logo-black.svg",
                                                         fill: !0,
                                                         style: {
                                                             objectFit:
@@ -3251,7 +3251,7 @@
                                                     href: "#home",
                                                     onClick: d,
                                                     children: (0, a.jsx)(g(), {
-                                                        src: "/tripleboost/assets/images/Facility-monster-logo-white-small.svg",
+                                                        src: "/tripleboost/assets/images/Toptal-monster-logo-white-small.svg",
                                                         fill: !0,
                                                         style: {
                                                             objectFit:
@@ -3281,7 +3281,7 @@
                                                     href: "#home",
                                                     onClick: d,
                                                     children: (0, a.jsx)(g(), {
-                                                        src: "/tripleboost/assets/images/Facility-monster-secondary-logo-alt1.svg",
+                                                        src: "/tripleboost/assets/images/Toptal-monster-secondary-logo-alt1.svg",
                                                         fill: !0,
                                                         style: {
                                                             objectFit:
@@ -3541,9 +3541,10 @@
                             ),
                     });
                 },
-                eC = "itTest | Facility management, just less monstrous",
+                eC =
+                    "Toptal Monster combines Website & SEO, Email, and Social Media",
                 e_ =
-                    "itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices.";
+                    "Toptal is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices.";
             function eg() {
                 let [e, t, i] = c((e) => [
                     e.setUserScrolled,

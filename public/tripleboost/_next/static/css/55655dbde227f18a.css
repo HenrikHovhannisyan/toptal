@@ -167,6 +167,7 @@
 .Button_button_raised_yellow__EPPlr {
     --tw-bg-opacity: 1;
     background-color: rgb(255 209 102 / var(--tw-bg-opacity));
+    margin-top: 15px;
 }
 .Button_button_raised_yellow__EPPlr > .Button_generic_button_typography__ca_q1 {
     --tw-text-opacity: 1;

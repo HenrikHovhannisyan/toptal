@@ -6,79 +6,83 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Supercharge your online growth with our all-in-one solution: </title>
+    <title>Supercharge your online growth with our all-in-one solution:</title>
     <meta name="robots" content="index,follow" />
-    <meta
-        name="description"
-        content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
-    <meta
-        property="og:title"
-        content="Supercharge your online growth with our all-in-one solution: " />
-    <meta
-        property="og:description"
-        content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
+    <meta name="description" content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
+    <meta property="og:title" content="Supercharge your online growth with our all-in-one solution:" />
+    <meta property="og:description" content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
     <meta property="og:url" content="index.html" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="{{ asset('tripleboost/assets/images/og-image.webp') }}" />
-    <meta
-        property="og:image:alt"
-        content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
+    <meta property="og:image:alt" content="itTest is a small, fast and scalable facility management platform, perfect for managing customers, bookings and sending invoices." />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="theme-color" content="#000000" />
-    <link
-        rel="icon"
-        type="image/ico"
-        sizes="256x256"
-        href="{{ asset('tripleboost/assets/images/favicon.ico') }}" />
-    <link
-        rel="preload"
-        as="image"
-        href="{{ asset('tripleboost/assets/images/overview-screenshot.webp') }}" />
+
+    <link rel="icon" type="image/ico" sizes="256x256" href="{{ asset('tripleboost/assets/images/favicon.ico') }}" />
+    <link rel="preload" as="image" href="{{ asset('tripleboost/assets/images/overview-screenshot.webp') }}" />
     <meta name="next-head-count" content="17" />
-    <link
-        rel="preload"
-        href="{{ asset('tripleboost/_next/static/css/4b12b55f611463b2.css') }}"
-        as="style" />
-    <link
-        rel="stylesheet"
-        href="{{ asset('tripleboost/_next/static/css/4b12b55f611463b2.css') }}"
-        data-n-g="" />
-    <link
-        rel="preload"
-        href="{{ asset('tripleboost/_next/static/css/55655dbde227f18a.css') }}"
-        as="style" />
-    <link
-        rel="stylesheet"
-        href="{{ asset('tripleboost/_next/static/css/55655dbde227f18a.css') }}"
-        data-n-p="" />
+
+    <link rel="preload" href="{{ asset('tripleboost/_next/static/css/4b12b55f611463b2.css') }}" as="style" />
+    <link rel="stylesheet" href="{{ asset('tripleboost/_next/static/css/4b12b55f611463b2.css') }}" data-n-g="" />
+    <link rel="preload" href="{{ asset('tripleboost/_next/static/css/55655dbde227f18a.css') }}?v={{ time() }}" as="style" />
+    <link rel="stylesheet" href="{{ asset('tripleboost/_next/static/css/55655dbde227f18a.css') }}?v={{ time() }}" data-n-p="" />
     <noscript data-n-css=""></noscript>
-    <script
-        defer=""
-        nomodule=""
-        src="{{ asset('tripleboost/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js') }}"></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/chunks/webpack-ee7e63bc15b31913.js') }}"
-        defer=""></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/chunks/framework-2c79e2a64abdb08b.js') }}"
-        defer=""></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/chunks/main-584ffd8361952856.js') }}"
-        defer=""></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/chunks/pages/_app-891652dd44e1e4e1.js') }}"
-        defer=""></script>
-    <script src="{{ asset('tripleboost/_next/static/chunks/341-46a786c1818695c0.js') }}" defer=""></script>
+
+    <script defer nomodule src="{{ asset('tripleboost/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js') }}"></script>
+    <script src="{{ asset('tripleboost/_next/static/chunks/webpack-ee7e63bc15b31913.js') }}" defer></script>
+    <script src="{{ asset('tripleboost/_next/static/chunks/framework-2c79e2a64abdb08b.js') }}" defer></script>
+    <script src="{{ asset('tripleboost/_next/static/chunks/main-584ffd8361952856.js') }}" defer></script>
+    <script src="{{ asset('tripleboost/_next/static/chunks/pages/_app-891652dd44e1e4e1.js') }}" defer></script>
+    <script src="{{ asset('tripleboost/_next/static/chunks/341-46a786c1818695c0.js') }}" defer></script>
     <script src="{{ asset('tripleboost/_next/static/chunks/pages/index-83265e8810c14434.js') }}?v={{ time() }}"></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/fk2T3RXot2HHqBuIXZWrq/_buildManifest.js') }}"
-        defer=""></script>
-    <script
-        src="{{ asset('tripleboost/_next/static/fk2T3RXot2HHqBuIXZWrq/_ssgManifest.js') }}"
-        defer=""></script>
+    <script src="{{ asset('tripleboost/_next/static/fk2T3RXot2HHqBuIXZWrq/_buildManifest.js') }}" defer></script>
+    <script src="{{ asset('tripleboost/_next/static/fk2T3RXot2HHqBuIXZWrq/_ssgManifest.js') }}" defer></script>
+
+    <!-- Intercom Integration (Anonymous Mode) -->
+    <script>
+        window.intercomSettings = {
+            app_id: "j02wfysa"
+        };
+    </script>
+    <script>
+        (function() {
+            var w = window;
+            var ic = w.Intercom;
+            if (typeof ic === "function") {
+                ic('reattach_activator');
+                ic('update', w.intercomSettings);
+            } else {
+                var d = document;
+                var i = function() {
+                    i.c(arguments);
+                };
+                i.q = [];
+                i.c = function(args) {
+                    i.q.push(args);
+                };
+                w.Intercom = i;
+                var l = function() {
+                    var s = d.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = 'https://widget.intercom.io/widget/j02wfysa';
+                    var x = d.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                };
+                if (document.readyState === 'complete') {
+                    l();
+                } else if (w.attachEvent) {
+                    w.attachEvent('onload', l);
+                } else {
+                    w.addEventListener('load', l, false);
+                }
+            }
+        })();
+    </script>
 </head>
+
 
 <body>
     <div id="__next">
@@ -337,7 +341,7 @@
                             class="animate-[fadeOut_0.15s_ease] absolute w-[138px] h-[47px] ml-[9px] mt-[7px]">
                             <a href="#home"><img
                                     alt="itTest Logo"
-                                    src="{{ asset('tripleboost/assets/images/Facility-monster-logo-black.svg') }}"
+                                    src="{{ asset('tripleboost/assets/images/Toptal-monster-logo-black.svg') }}"
                                     decoding="async"
                                     data-nimg="fill"
                                     loading="lazy"
@@ -356,7 +360,7 @@
                         <div class="absolute w-[138px] h-[47px] ml-[9px] mt-[7px]">
                             <a href="#home"><img
                                     alt="itTest Logo"
-                                    src="{{ asset('tripleboost/assets/images/Facility-monster-logo-white-small.svg') }}"
+                                    src="{{ asset('tripleboost/assets/images/Toptal-monster-logo-white-small.svg') }}"
                                     decoding="async"
                                     data-nimg="fill"
                                     loading="lazy"
@@ -376,7 +380,7 @@
                             class="animate-[fadeIn_0.15s_ease] absolute w-[190px] h-[70px] ml-[0px] mt-[3px]">
                             <a href="#home"><img
                                     alt="itTest Logo"
-                                    src="{{ asset('tripleboost/assets/images/Facility-monster-secondary-logo-alt1.svg') }}"
+                                    src="{{ asset('tripleboost/assets/images/Toptal-monster-secondary-logo-alt1.svg') }}"
                                     decoding="async"
                                     data-nimg="fill"
                                     loading="lazy"
