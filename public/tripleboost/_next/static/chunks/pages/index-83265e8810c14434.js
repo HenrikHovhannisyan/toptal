@@ -707,7 +707,7 @@
                                     className:
                                         "header-paragraph text-midnight-blue",
                                     children:
-                                        "Freakishly simple plans for businesses of every size—no hidden catches, just monstrous value.",
+                                        "One clear plan. No surprises. Just the tools you need to grow.",
                                 }),
                                 (0, a.jsxs)("div", {
                                     className: N().mobile_price_selector,
@@ -791,7 +791,7 @@
                                     className:
                                         "flex flex-row gap-[6px] lg:gap-[1.6vw] xl:gap-[37px] items-center lg:!select-auto",
                                     children: [
-                                        (0, a.jsx)(n.E.div, {
+                                        /* (0, a.jsx)(n.E.div, {
                                             id: "free",
                                             animate: {
                                                 opacity:
@@ -869,7 +869,7 @@
                                                     }),
                                                 ],
                                             }),
-                                        }),
+                                        }), */
                                         (0, a.jsx)(n.E.div, {
                                             id: "recommended",
                                             animate: {
@@ -914,7 +914,7 @@
                                                                         .price_paragraph +
                                                                     " xl:text-[22px]",
                                                                 children:
-                                                                    "Perfect for most small to mid-sized companies looking to amplify their online presence.",
+                                                                    "What you get",
                                                             }),
                                                             (0, a.jsxs)("ul", {
                                                                 className:
@@ -926,7 +926,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Website Management & SEO (1 month)",
+                                                                                "Website care & updates—speedy, secure, and always online",
                                                                         }
                                                                     ),
                                                                     (0, a.jsx)(
@@ -935,7 +935,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Email Marketing to 50,000 confirmed leads",
+                                                                                "SEO tuned for Google and ChatGPT answers",
                                                                         }
                                                                     ),
                                                                     (0, a.jsx)(
@@ -944,7 +944,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "Social Media Marketing (1 month)",
+                                                                                "Email campaigns written, sent, and tracked for you ( 50K verified active emails / month )",
                                                                         }
                                                                     ),
                                                                     (0, a.jsx)(
@@ -953,7 +953,7 @@
                                                                             className:
                                                                                 "xl:!text-[22px]",
                                                                             children:
-                                                                                "$199/month",
+                                                                                "$99/month",
                                                                         }
                                                                     ),
                                                                 ],
@@ -995,7 +995,7 @@
                                                 ],
                                             }),
                                         }),
-                                        (0, a.jsx)(n.E.div, {
+                                        /* (0, a.jsx)(n.E.div, {
                                             id: "enterprise",
                                             animate: {
                                                 opacity:
@@ -1076,7 +1076,7 @@
                                                     }),
                                                 ],
                                             }),
-                                        }),
+                                        }), */
                                     ],
                                 }),
                                 (0, a.jsxs)("p", {
@@ -1517,7 +1517,7 @@
                                         className:
                                             "header-paragraph !mb-[28px] md:!mb-[1vw] 2xl:!mb-[0] 3xl:!mb-[24px] text-sunshine-yellow max-w-[620px]",
                                         children:
-                                            "Don’t be fooled by Toptal Monster’s friendly grin—there’s beastly power under the hood. Here’s what it can sink its claws into:",
+                                            "Three big jobs—one easy tool. We care for your site, lift your search rank in ChatGPT and Google, and send tons of emails that sell.",
                                     }),
                                 ],
                             }),
@@ -1527,13 +1527,12 @@
                                         I,
                                         {
                                             id: 1,
-                                            title: "Smooth Website Management",
+                                            title: "Smooth Website Care",
                                             description:
-                                                "Keep your site fresh, secure, and running at monster speed. No more wrestling with endless plugins or updates—Toptal Monster wrangles it all in one streamlined platform.",
+                                                "We keep your site safe, speedy, and up to date, so you never sweat the tech.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_services.webp",
-                                            imageAlt:
-                                                "Smooth Website Management",
+                                            imageAlt: "Smooth Website Care",
                                             active: 1 === e,
                                         },
                                         "1"
@@ -1542,12 +1541,13 @@
                                         I,
                                         {
                                             id: 2,
-                                            title: "SEO",
+                                            title: "Smart SEO for Google & ChatGPT",
                                             description:
-                                                "Want to roar at the top of Google’s search results? Toptal Monster’s SEO toolkit ensures your site stays visible, relevant, and ready to devour the competition.",
+                                                "We tune every page so search engines—and ChatGPT answers—put you on top.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_invoicing.webp",
-                                            imageAlt: "SEO",
+                                            imageAlt:
+                                                "Smart SEO for Google & ChatGPT",
                                             active: 2 === e,
                                         },
                                         "2"
@@ -1556,12 +1556,13 @@
                                         I,
                                         {
                                             id: 3,
-                                            title: "Email Marketing",
+                                            title: "Email Marketing That Works",
                                             description:
-                                                "Reach your audience right in their inboxes. Whether you’re nurturing leads or sending announcements, Toptal Monster sinks its teeth into email campaigns for beastly open rates and engagement.",
+                                                "We plan, write, and send emails people open and click, turning visitors into buyers.",
                                             imageUrl:
                                                 "/tripleboost/assets/images/features_screenshot_customers.webp",
-                                            imageAlt: "Email Marketing",
+                                            imageAlt:
+                                                "Email Marketing That Works",
                                             active: 3 === e,
                                         },
                                         "3"
@@ -1949,18 +1950,18 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Show clear numbers so you see the winst",
+                                                                            "Show clear numbers so you see the wins",
                                                                     }
                                                                 ),
                                                             ],
                                                         }),
-                                                        (0, a.jsx)("p", {
+                                                        /* (0, a.jsx)("p", {
                                                             className:
                                                                 W()
                                                                     .sub_paragraph,
                                                             children:
                                                                 "…and more as you grow!",
-                                                        }),
+                                                        }), */
                                                     ],
                                                 }),
                                             ],
@@ -2069,7 +2070,7 @@
                                                                 ),
                                                             ],
                                                         }),
-                                                        (0, a.jsxs)("p", {
+                                                        /* (0, a.jsxs)("p", {
                                                             className:
                                                                 W()
                                                                     .sub_paragraph +
@@ -2089,7 +2090,7 @@
                                                                 ),
                                                                 "!",
                                                             ],
-                                                        }),
+                                                        }), */
                                                     ],
                                                 }),
                                                 (0, a.jsx)(U, {}),
