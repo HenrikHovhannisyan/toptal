@@ -2370,14 +2370,13 @@
                                             (0, a.jsx)("h2", {
                                                 className:
                                                     "z-10 md:text-[46px] lg:text-[62px] xl:text-[74px]",
-                                                children:
-                                                    "What are you waiting for?",
+                                                children: "Ready to grow?",
                                             }),
                                             (0, a.jsx)("p", {
                                                 className:
                                                     "header-paragraph opacity-80 text-white max-w-[830px] z-10",
                                                 children:
-                                                    "Don’t settle for small when you can go big. Toptal Monster is here to propel your brand into a new era of growth and success. Seize the moment—start now!",
+                                                    "Let us run your website, boost your Google & ChatGPT rank, and send emails that sell. Hit the button and watch the results roll in.",
                                             }),
                                             (0, a.jsx)(m, {
                                                 label: "Start For Free",
