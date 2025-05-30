@@ -391,7 +391,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.5,
-                                                children: "Monstrous",
+                                                children: "Website,",
                                             }),
                                         }),
                                         " ",
@@ -405,7 +405,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.55,
-                                                children: "Growth",
+                                                children: "SEO,",
                                             }),
                                         }),
                                         (0, a.jsx)("span", {
@@ -418,7 +418,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.9,
-                                                children: ",",
+                                                children: "",
                                             }),
                                         }),
                                         " ",
@@ -432,7 +432,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 0.95,
-                                                children: "Minus",
+                                                children: "Email—Done",
                                             }),
                                         }),
                                         " ",
@@ -446,7 +446,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 1,
-                                                children: "the",
+                                                children: "for",
                                             }),
                                         }),
                                         " ",
@@ -461,7 +461,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 1.05,
-                                                children: "Monster",
+                                                children: "You",
                                             }),
                                         }),
                                         (0, a.jsx)("span", {
@@ -475,7 +475,7 @@
                                                     ? "hidden"
                                                     : "visible",
                                                 custom: 1.1,
-                                                children: "Work.",
+                                                children: "",
                                             }),
                                         }),
                                     ],
@@ -496,7 +496,7 @@
                                             type: "spring",
                                         },
                                         children:
-                                            "Toptal Monster combines Website & SEO, Email, and Social Media into one powerful platform—so you can unleash beastly results without the monstrous hassle.",
+                                            "We manage your website, boost your Google & ChatGPT rank, and handle all your email marketing. Simple.",
                                     }),
                                 }),
                                 (0, a.jsx)(n.E.div, {
@@ -1860,9 +1860,7 @@
                                     className:
                                         "header-paragraph text-midnight-blue max-w-[640px] md:max-w-[820px]",
                                     children: [
-                                        "Why did we build this? We were tired of large, outdated, and expensive solutions forcing businesses to juggle multiple tools. We believe marketing should be both powerful and fun. So, we combined everything into one lean, easy-to-use platform.",
-                                        (0, a.jsx)("em", { children: "and" }),
-                                        " easy!",
+                                        "Why did we build this?   Big tools were pricey and hard to use, so we built one simple place to run your website, boost your SEO, and send winning emails.",
                                     ],
                                 }),
                                 (0, a.jsxs)("div", {
@@ -1906,7 +1904,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Boost your Google rankings with expert SEO",
+                                                                            "Keep your website fresh, fast, and safe",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1921,7 +1919,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Keep your website updated and optimized",
+                                                                            "Lift you to the top of Google and ChatGPT results",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1936,7 +1934,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Run monthly email campaigns to verified leads",
+                                                                            "Send emails people open and click",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -1951,22 +1949,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Create and schedule social media posts for consistent engagement",
-                                                                    }
-                                                                ),
-                                                                (0, a.jsx)(
-                                                                    n.E.li,
-                                                                    {
-                                                                        variants:
-                                                                            l,
-                                                                        whileHover:
-                                                                            {
-                                                                                scale: 1.04,
-                                                                                clipPath:
-                                                                                    "none",
-                                                                            },
-                                                                        children:
-                                                                            "Track performance with detailed reports",
+                                                                            "Show clear numbers so you see the winst",
                                                                     }
                                                                 ),
                                                             ],
@@ -1976,7 +1959,7 @@
                                                                 W()
                                                                     .sub_paragraph,
                                                             children:
-                                                                "... and much more!",
+                                                                "…and more as you grow!",
                                                         }),
                                                     ],
                                                 }),
@@ -2021,7 +2004,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Startups looking to grow fast",
+                                                                            "Start-ups that want quick growth",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2036,7 +2019,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Local businesses ready to scale online",
+                                                                            "Local shops that need more traffic",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2051,7 +2034,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Agencies managing multiple clients",
+                                                                            "Solo founders who dislike tech chores",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2066,7 +2049,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Solo entrepreneurs wanting a hands-free marketing solution",
+                                                                            "Agencies juggling many clients",
                                                                     }
                                                                 ),
                                                                 (0, a.jsx)(
@@ -2081,7 +2064,7 @@
                                                                                     "none",
                                                                             },
                                                                         children:
-                                                                            "Brands seeking a unified digital presence",
+                                                                            "Anyone who wants online results without extra work",
                                                                     }
                                                                 ),
                                                             ],
