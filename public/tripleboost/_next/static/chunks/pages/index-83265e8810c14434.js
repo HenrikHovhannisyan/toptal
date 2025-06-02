@@ -1079,7 +1079,7 @@
                                         }), */
                                     ],
                                 }),
-                                (0, a.jsxs)("p", {
+/*                                 (0, a.jsxs)("p", {
                                     className:
                                         "text-black max-w-[500px] px-[16px] text-center text-[17px] md:text-[19px] opacity-70 mt-16 ",
                                     children: [
@@ -1093,7 +1093,7 @@
                                         }),
                                         "\xa0to our team and we’ll walk you through the differences.",
                                     ],
-                                }),
+                                }), */
                             ],
                         }),
                     });
@@ -1582,7 +1582,7 @@
                                         },
                                         "4"
                                     ), */
-                                    (0, a.jsx)(
+/*                                     (0, a.jsx)(
                                         I,
                                         {
                                             id: 4,
@@ -1595,7 +1595,7 @@
                                             active: 4 === e,
                                         },
                                         "4"
-                                    ),
+                                    ), */
                                 ],
                             }),
                         ],
