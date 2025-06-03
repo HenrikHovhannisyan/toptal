@@ -2365,7 +2365,7 @@
                                             y: (0, D.H)(x, [0, 1], [0, -r / 2]),
                                         }, */
                                         className:
-                                            "flex flex-col items-center md:mb-[140px] mb-[12vh] mx-auto w-10/12 sm:w-9/12 relative z-10 transition duration-[0.05s]",
+                                            "flex flex-col items-center mb-[12vh] mx-auto w-10/12 sm:w-9/12 relative z-10 transition duration-[0.05s]",
                                         children: [
                                             (0, a.jsx)("h2", {
                                                 className:
