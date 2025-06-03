@@ -1079,7 +1079,7 @@
                                         }), */
                                     ],
                                 }),
-/*                                 (0, a.jsxs)("p", {
+                                /*                                 (0, a.jsxs)("p", {
                                     className:
                                         "text-black max-w-[500px] px-[16px] text-center text-[17px] md:text-[19px] opacity-70 mt-16 ",
                                     children: [
@@ -1582,7 +1582,7 @@
                                         },
                                         "4"
                                     ), */
-/*                                     (0, a.jsx)(
+                                    /*                                     (0, a.jsx)(
                                         I,
                                         {
                                             id: 4,
@@ -2356,14 +2356,14 @@
                                     "fixed flex flex-col justify-end w-full h-full bottom-0 md:pb-16 pb-[54px] lg:pointer-events-none",
                                 children: [
                                     (0, a.jsxs)(n.E.div, {
-                                        style: {
+                                        /* style: {
                                             scale: (0, D.H)(
                                                 x,
                                                 [0, 1],
                                                 [1, 1 + 6e-4 * r]
                                             ),
                                             y: (0, D.H)(x, [0, 1], [0, -r / 2]),
-                                        },
+                                        }, */
                                         className:
                                             "flex flex-col items-center md:mb-[140px] mb-[12vh] mx-auto w-10/12 sm:w-9/12 relative z-10 transition duration-[0.05s]",
                                         children: [
