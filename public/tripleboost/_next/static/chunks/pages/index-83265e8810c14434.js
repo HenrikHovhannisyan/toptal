@@ -709,7 +709,7 @@
                                     children:
                                         "One clear plan. No surprises. Just the tools you need to grow.",
                                 }),
-                                (0, a.jsxs)("div", {
+                                /* (0, a.jsxs)("div", {
                                     className: N().mobile_price_selector,
                                     children: [
                                         (0, a.jsx)("span", {
@@ -760,7 +760,7 @@
                                                     .mobile_price_selector_container,
                                         }),
                                     ],
-                                }),
+                                }), */
                                 (0, a.jsxs)(n.E.div, {
                                     initial: "hidden",
                                     whileInView: t >= 2 ? "visible" : "hidden",
@@ -770,6 +770,8 @@
                                     },
                                     variants: s,
                                     dragSnapToOrigin: !0,
+
+                                    
                                     drag: i < 1024 ? "x" : void 0,
                                     dragConstraints: { left: 0, right: 0 },
                                     dragElastic: 0.8,
