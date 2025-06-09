@@ -511,9 +511,12 @@
                                     children: (0, a.jsx)(m, {
                                         cssClass:
                                             "mb-[76px] md:mb-[95px] xl:mb-[11vh] 4xl-text[22px] 4xl:leading-[22px]",
-                                        label: "Start for free",
+                                        label: "Start For Free",
                                         style: "shadow_yellow",
-                                        onPress: (t) => e(t, (0, a.jsx)(u, {})),
+                                        onPress: () => {
+                                            window.location.href =
+                                                "https://app.toptal.ai/sign-up-as-client#monster";
+                                        },
                                     }),
                                 }),
                                 (0, a.jsx)(n.E.div, {
@@ -771,7 +774,6 @@
                                     variants: s,
                                     dragSnapToOrigin: !0,
 
-                                    
                                     drag: i < 1024 ? "x" : void 0,
                                     dragConstraints: { left: 0, right: 0 },
                                     dragElastic: 0.8,
@@ -977,21 +979,11 @@
                                                             (0, a.jsx)(m, {
                                                                 label: "Start For Free",
                                                                 style: "raised_purple",
-                                                                cssClass:
-                                                                    "w-full",
-                                                                onPress: (
-                                                                    t
-                                                                ) => {
-                                                                    e(
-                                                                        t,
-                                                                        (0,
-                                                                        a.jsx)(
-                                                                            u,
-                                                                            {}
-                                                                        )
-                                                                    );
+                                                                cssClass: "w-full",
+                                                                onPress: () => {
+                                                                    window.location.href = "https://app.toptal.ai/sign-up-as-client#monster";
                                                                 },
-                                                            }),
+                                                            }),                                                            
                                                         ],
                                                     }),
                                                 ],
@@ -2384,8 +2376,10 @@
                                                 label: "Start For Free",
                                                 style: "shadow_purple",
                                                 cssClass: "pointer-events-auto",
-                                                onPress: (t) =>
-                                                    e(t, (0, a.jsx)(u, {})),
+                                                onPress: () => {
+                                                    window.location.href =
+                                                        "https://app.toptal.ai/sign-up-as-client#monster";
+                                                },
                                             }),
                                         ],
                                     }),
@@ -2901,7 +2895,7 @@
                                     className: "py-5 ",
                                     children: (0, a.jsx)(n.E.a, {
                                         style: {
-                                            borderRadius: "9999px !important",
+                                            borderRadius: "9999px",
                                         },
                                         animate: {
                                             transitionEnd: {
@@ -2917,11 +2911,10 @@
                                         transition: { duration: 0 },
                                         className: ""
                                             .concat($().primary_button, " ")
-                                            .concat(s ? $().collapsed : null),
-                                        onClick: (e) => t(e, (0, a.jsx)(u, {})),
-                                        href: "#",
+                                            .concat(s ? $().collapsed : ""),
+                                        href: "https://app.toptal.ai/sign-up-as-client#monster",
                                         children: (0, a.jsx)("span", {
-                                            children: "Start for free",
+                                            children: "Start For Free",
                                         }),
                                     }),
                                 }),
