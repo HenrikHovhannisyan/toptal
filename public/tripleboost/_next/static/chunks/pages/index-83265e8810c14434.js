@@ -511,7 +511,7 @@
                                     children: (0, a.jsx)(m, {
                                         cssClass:
                                             "mb-[76px] md:mb-[95px] xl:mb-[11vh] 4xl-text[22px] 4xl:leading-[22px]",
-                                        label: "Start For Free",
+                                        label: "Get Started",
                                         style: "shadow_yellow",
                                         onPress: () => {
                                             window.location.href =
@@ -977,13 +977,15 @@
                                                                 }),
                                                             }), */
                                                             (0, a.jsx)(m, {
-                                                                label: "Start For Free",
+                                                                label: "Get Started",
                                                                 style: "raised_purple",
-                                                                cssClass: "w-full",
+                                                                cssClass:
+                                                                    "w-full",
                                                                 onPress: () => {
-                                                                    window.location.href = "https://app.toptal.ai/sign-up-as-client#monster";
+                                                                    window.location.href =
+                                                                        "https://app.toptal.ai/sign-up-as-client#monster";
                                                                 },
-                                                            }),                                                            
+                                                            }),
                                                         ],
                                                     }),
                                                 ],
@@ -2373,7 +2375,7 @@
                                                     "Let us run your website, boost your Google & ChatGPT rank, and send emails that sell. Hit the button and watch the results roll in.",
                                             }),
                                             (0, a.jsx)(m, {
-                                                label: "Start For Free",
+                                                label: "Get Started",
                                                 style: "shadow_purple",
                                                 cssClass: "pointer-events-auto",
                                                 onPress: () => {
@@ -2914,7 +2916,7 @@
                                             .concat(s ? $().collapsed : ""),
                                         href: "https://app.toptal.ai/sign-up-as-client#monster",
                                         children: (0, a.jsx)("span", {
-                                            children: "Start For Free",
+                                            children: "Get Started",
                                         }),
                                     }),
                                 }),
